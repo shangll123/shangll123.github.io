@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zhenke Wu, PhD
+title: Lulu Shang
 categories:
  - home
 ---
@@ -17,81 +17,39 @@ categories:
 	<div class="col-md-12">
 		<!-- <object class="pull-left biglogo" data="assets/themes/lab/images/logo/logo-none.svg" type="image/svg+xml"></object> -->
 		<div class="bigtitle logobox">
-			Zhenke Wu Research
+			Lulu Shang
 		</div>
 	</div>	
 	
 </div> 
-**Name in Chinese:**[ 吴振科 <i class="fa fa-soundcloud"></i>](https://soundcloud.com/zhenke-wu/zhenke-wu-name). Pronounced: "Jen-Kuh Wu".
 
 
-[[Publications]](/papers/) [[CV]](https://www.overleaf.com/read/dbktqfjxccbv) [[Contact]](/team/zhenke-wu) [[Bio]](/team/zhenke-wu)
+[[Publications]](/papers/) [[CV]](https://www.overleaf.com/read/cnvskyngdygn) 
 
-[[Google Scholar<i class="ai ai-google-scholar"></i>]](https://scholar.google.com/citations?user=3ffCNrEAAAAJ&hl=en) [[GitHub<i class="fa fa-github"></i>]](https://github.com/zhenkewu?tab=activity) [[Twitter<i class="fa fa-twitter"></i>]](https://twitter.com/ZhenkeWu).
+[[Google Scholar<i class="ai ai-google-scholar"></i>]](https://scholar.google.com/citations?hl=en&user=tkt5ZOYAAAAJ&view_op=list_works&sortby=pubdate) [[GitHub<i class="fa fa-github"></i>]](https://github.com/shangll123) [[Twitter<i class="fa fa-twitter"></i>]](https://twitter.com/shang_lulu).
 
-The best way to contact me is email. Direction to my office is [here](assets/pdfs/team/zhenkewu-office.pdf).
 
 
 <hr/>
-I am an [Assistant Professor](https://sph.umich.edu/faculty-profiles/wu-zhenke.html) in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://www.umich.edu), with joint appointment as [Research Assistant Professor](http://midas.umich.edu/faculty-member/zhenke-wu/) in [Michigan Institute for Data Science (MIDAS)](http://midas.umich.edu). I am also Faculty Associate in [Quantitative Methodology Program](http://www.qmp.isr.umich.edu/), [Survey Research Center](http://home.isr.umich.edu/centers/src/) of Institute for Social Research ([ISR](http://home.isr.umich.edu/)), University of Michigan.
+My name is Lulu Shang. I am a 5th-year PhD student in the Department of Biostatistics at the University of Michigan. I have been working with Prof. [Xiang Zhou](http://xzlab.org) on developing statistical methods for genetic and genomic datasets. My recent focus is on developing methods for analyzing spatial transcriptomics. I also work closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study.
 
 <hr/>
 
 **Research Theme**:
 
-My research is motivated by biomedical and public health problems and is centered on the design and application of statistical methods that inform health decisions made by individuals, or precision medicine. Towards this goal, I focus on two lines of methodological research: a) structured Bayesian latent variable models for clustering and disease subtyping, and b) study design, causal and reinforcement learning methods for evaluating sequential interventions that tailor to individuals' changing circumstances such as in interventional mobile health studies. I am committed to developing robust, scalable, and interpretable statistical methods to harness real-world, high-dimensional, dynamic data for individualized health. The methods and software developed so far have supported studies in diverse scientiﬁc ﬁelds including infectious disease epidemiology, autoimmune diseases, mental health, behavioral health, and cancer. 
+My research interest is in developing effective and efficient statistical and computational methods in single cell and spatial transcriptomics to address critical biological problems such as omics data dimension reduction and integration in genetics and genomics. Specifically, my work consists of three important directions: (1) developing efficient and powerful computational and statistical methods in single cell and spatial transcriptomics; (2) integrating genome-wide association studies (GWASs) with single cell and bulk RNA-seq to understand disease etiology; and (3) performing large-scale quantitative trait association studies in underrepresented populations. In my future research, I envision continuing to develop statistical methods motivated by important problems in spatially resolved transcriptomics and multi-omics data. 
 
 **Keywords**:
 
-- *Statistical*: Hierarchical Bayesian models; Latent variable models; Nonparametric Bayes; Bayesian scalable computation; Causal inference; Reinforcement learning.
-
-- *Substantive*: Precision medicine; Mobile health; Infectious diseases; Mental health; Electronic health records/claims data; Healthcare policy; Clinical trials; Just-in-time adaptive interventions for behaviorial and psychiatric research.
-
-
-<!-- Currently a major focus of my work is on the analysis of multiple mixed-type longitudinal measurements with feedbacks in treatment assignments. I am working on hierarchical Bayesian methods to infer latent trajectories that represent individual disease progressions that have direct applications to childhood pneumonia etiology studies, analyses of electronic health records and claims data, and just-in-time adaptive interventions (JITAI) in mobile health (mHealth) studies. -->
-
+- *Statistical Methods*: High-dimensional data analysis, mixed effects models, longitudinal data analysis, spatial statistics,
+non-parametric models, dimension reduction, data integration, statistical computing, network analysis and machine learning.
+- *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA se-
+quencing studies, spatial and single cell multi-omics, genome-wide association studies, genome-wide quantitative
+loci mapping, methylation studies, and gene regulatory network.
 
 <hr/>
 
-<!-- **Postdoc Openning**
 
-- **[Rolling Reviews: Postdoc Position on Statistical Methods to Individualize Care for Mental Health](https://docs.google.com/document/d/1Eq8VmqvYrF2Fqo5UxzjZbKQpJPnbZWxJTRYbL-6J19I/edit)** -->
-
-
-**Advising**: We are recruiting motivated and hard-working people interested in Bayesian methods and computation, graphical models, causal inference, sequential decision making, reinforcement learning and large-scale health data analytics. If you want to get involved, please [say hi](/sayhi/). 
-
-**Working Group**:
-
-- [__Michigan Statistics for Individualized-healthcare Lab (MiSIL)__ weekly meeting schedules](https://docs.google.com/spreadsheets/d/1CfHqh74SrGH5zuo8W_L_hAGdLJdt_9jLgaeBtoxYp88/edit?usp=sharing)
-
-<!-- Past:
-
-- [__Statistical Learning and Computing Reading Group, Winter 2019__](/teaching/statistical_learning_reading_group) -->
-
-
-
-<!-- * Bayesian hierarchical models: biomarkers, data integration, scalable computation, model-averaging;
-* Latent variable models: dynamics, measurement errors, local dependence, partial-identifiability; 
-* Robust inference: bias reduction, efficiency enhancement by covariate-calibration, semiparametric locally efficient estimation, deductive inference;
-* Causal analysis of modern study designs;
-* Collaborations: mental health, infectious disease, autoimmune disease, medical diagnosis, epidemiology, health policy, cancer, mobile health, Just-in-time adaptive interventions for behaviorial and psychiatric research.
- -->
-<hr/>
-
-I collaborate closely with 
-
-- [Intern Health Study](https://www.srijan-sen-lab.com/intern-health-study)
-- [openVA](https://openva.net/)
-- [Data Science in Africa] - the [UZIMA-DS project](https://uzimadatascience.org/).
-- [D3 Lab: Data Science for Dynamic Intervention Decision-Making Lab](http://d3lab-isr.com/team/)
-
-- [The Michigan Genomics Initiative](https://www.michigangenomics.org)
-- [Precision Health Use Case: PROviding Mental Health Precision Treatment (PROMPT)](https://precisionhealth.umich.edu/workgroups/prompt/)
-- [Cancer Control and Population Sciences, Rogel Cancer Center](http://www.mcancer.org/research/programs/cancer-control-and-population-sciences)
-
-- [Rheumatology at Johns Hopkins](https://www.hopkinsrheumatology.org/research/rosen-casciola-lab/)
-- [Hopkins inHealth](http://hopkinsinhealth.jhu.edu/) methodology group
-- [International Vaccine Access Center (IVAC)](http://www.jhsph.edu/research/centers-and-institutes/ivac/)
 
 <br />
 
