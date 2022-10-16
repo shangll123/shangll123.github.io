@@ -15,7 +15,7 @@ categories:
 
 <div class="row">
 	<div class="col-md-12">
-		<!-- <object class="pull-left biglogo" data="assets/themes/lab/images/logo/profile.jpeg" type="image/jpeg+xml"></object> -->
+		<!-- <object class="pull-left biglogo" data="assets/themes/lab/images/logo/profile.jpeg" type="image/jpeg"></object> -->
 		<div class="bigtitle logobox">
 			Lulu Shang
 		</div>
