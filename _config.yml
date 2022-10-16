@@ -41,11 +41,11 @@ department:
   map: http://goo.gl/HXM9Pi
   workphone: +1-734-764-7067
 author :
-  name : Zhenke Wu
-  email : zhenkewu@gmail.com
-  github : zhenkewu
-  twitter : ZhenkeWu
-  uri: http://zhenkewu.com
+  name : Lulu Shang
+  email : shanglu[at]umich.edu
+  github : #zhenkewu
+  twitter : #ZhenkeWu
+  uri: #http://zhenkewu.com
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -56,7 +56,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://zhenkewu.com
+production_url : #http://zhenkewu.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -221,7 +221,7 @@ exclude:
   - "Gemfile.lock"
 
 projects:
-  - zhenkewu/baker
-  - zhenkewu/mpcr
-  - zhenkewu/spotgear
-  - oslerinhealth
+ # - zhenkewu/baker
+ # - zhenkewu/mpcr
+ # - zhenkewu/spotgear
+ # - oslerinhealth
