@@ -1,4 +1,3 @@
-
 ---
 layout: paper
 title: "Lack of Response after Initial Chemoembolization for Hepatocellular Carcinoma: Does It Predict Failure of Subsequent Treatment?"
