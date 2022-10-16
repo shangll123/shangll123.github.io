@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Breast Tumor</title>
+
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<link rel="icon" href="https://github.com/workflowr/workflowr-assets/raw/main/img/reproducible.png">
+<!-- Add a small amount of space between sections. -->
+<style type="text/css">
+div.section {
+  padding-top: 12px;
+}
+</style>
+
+
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">SpatialPCA</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="Installation.html">Installation</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Examples
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="DLPFC.html">DLPFC</a>
+    </li>
+    <li>
+      <a href="slideseq.html">Slide-seq Cerebellum</a>
+    </li>
+    <li>
+      <a href="slideseqV2.html">Slide-seq V2 hippocampus</a>
+    </li>
+    <li>
+      <a href="ST.html">Breast Tumor</a>
+    </li>
+    <li>
+      <a href="Vizgen.html">Vizgen Merfish Mouse Brain</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="license.html">License</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/shangll123/SpatialPCA">
+    <span class="fa fa-github"></span>
+     
+    Source code
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Breast Tumor</h1>
+
+</div>
+
+
+<p>
+<button type="button" class="btn btn-default btn-workflowr btn-workflowr-report" data-toggle="collapse" data-target="#workflowr-report">
+<span class="glyphicon glyphicon-list" aria-hidden="true"></span>
+workflowr <span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span>
+</button>
+</p>
+<div id="workflowr-report" class="collapse">
+<ul class="nav nav-tabs">
+<li class="active">
+<a data-toggle="tab" href="#summary">Summary</a>
+</li>
+<li>
+<a data-toggle="tab" href="#checks"> Checks <span
+class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span>
+</a>
+</li>
+<li>
+<a data-toggle="tab" href="#versions">Past versions</a>
+</li>
+</ul>
+<div class="tab-content">
+<div id="summary" class="tab-pane fade in active">
+<p>
+<strong>Last updated:</strong> 2022-08-13
+</p>
+<p>
+<strong>Checks:</strong> <span
+class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> 7
+<span class="glyphicon glyphicon-exclamation-sign text-danger"
+aria-hidden="true"></span> 0
+</p>
+<p>
+<strong>Knit directory:</strong> <code>Tutorial/</code> <span
+class="glyphicon glyphicon-question-sign" aria-hidden="true"
+title="This is the local directory in which the code in this file was executed.">
+</span>
+</p>
+<p>
+This reproducible <a href="https://rmarkdown.rstudio.com">R Markdown</a>
+analysis was created with <a
+  href="https://github.com/workflowr/workflowr">workflowr</a> (version
+1.7.0). The <em>Checks</em> tab describes the reproducibility checks
+that were applied when the results were created. The <em>Past
+versions</em> tab lists the development history.
+</p>
+<hr>
+</div>
+<div id="checks" class="tab-pane fade">
+<div id="workflowr-checks" class="panel-group">
+<div class="panel panel-default">
+<div class="panel-heading">
+<p class="panel-title">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRMarkdownfilestronguptodate">
+<span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span> <strong>R Markdown file:</strong> up-to-date
+</a>
+</p>
+</div>
+<div id="strongRMarkdownfilestronguptodate"
+class="panel-collapse collapse">
+<div class="panel-body">
+<p>Great! Since the R Markdown file has been committed to the Git
+repository, you know the exact version of the code that produced these
+results.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<p class="panel-title">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongEnvironmentstrongempty">
+<span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span> <strong>Environment:</strong> empty </a>
+</p>
+</div>
+<div id="strongEnvironmentstrongempty" class="panel-collapse collapse">
+<div class="panel-body">
+<p>Great job! The global environment was empty. Objects defined in the
+global environment can affect the analysis in your R Markdown file in
+unknown ways. For reproduciblity it’s best to always run the code in an
+empty environment.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<p class="panel-title">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongSeedstrongcodesetseed20220106code">
+<span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span> <strong>Seed:</strong>
+<code>set.seed(20220106)</code> </a>
+</p>
+</div>
+<div id="strongSeedstrongcodesetseed20220106code"
+class="panel-collapse collapse">
+<div class="panel-body">
+<p>The command <code>set.seed(20220106)</code> was run prior to running
+the code in the R Markdown file. Setting a seed ensures that any results
+that rely on randomness, e.g. subsampling or permutations, are
+reproducible.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<p class="panel-title">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongSessioninformationstrongrecorded">
+<span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span> <strong>Session information:</strong>
+recorded </a>
+</p>
+</div>
+<div id="strongSessioninformationstrongrecorded"
+class="panel-collapse collapse">
+<div class="panel-body">
+<p>Great job! Recording the operating system, R version, and package
+versions is critical for reproducibility.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<p class="panel-title">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongCachestrongnone">
+<span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span> <strong>Cache:</strong> none </a>
+</p>
+</div>
+<div id="strongCachestrongnone" class="panel-collapse collapse">
+<div class="panel-body">
+<p>Nice! There were no cached chunks for this analysis, so you can be
+confident that you successfully produced the results during this
+run.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<p class="panel-title">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongFilepathsstrongrelative">
+<span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span> <strong>File paths:</strong> relative </a>
+</p>
+</div>
+<div id="strongFilepathsstrongrelative" class="panel-collapse collapse">
+<div class="panel-body">
+<p>Great job! Using relative paths to the files within your workflowr
+project makes it easier to run your code on other machines.</p>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<p class="panel-title">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrong44fb96c">
+<span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span> <strong>Repository version:</strong> 44fb96c
+</a>
+</p>
+</div>
+<div id="strongRepositoryversionstrong44fb96c"
+class="panel-collapse collapse">
+<div class="panel-body">
+<p>
+Great! You are using Git for version control. Tracking code development
+and connecting the code version to the results is critical for
+reproducibility.
+</p>
+<p>
+The results in this page were generated with repository version 44fb96c.
+See the <em>Past versions</em> tab to see a history of the changes made
+to the R Markdown and HTML files.
+</p>
+<p>
+Note that you need to be careful to ensure that all relevant files for
+the analysis have been committed to Git prior to generating the results
+(you can use <code>wflow_publish</code> or
+<code>wflow_git_commit</code>). workflowr only checks the R Markdown
+file, but you know if there are other scripts or data files that it
+depends on. Below is the status of the Git repository when the results
+were generated:
+</p>
+<pre><code>
+Ignored files:
+    Ignored:    .Rhistory
+    Ignored:    .Rproj.user/
+    Ignored:    analysis/_main.html
+
+Untracked files:
+    Untracked:  code/Simulation.R
+    Untracked:  code/SpatialPCA.R
+    Untracked:  code/SpatialPCA_EstimateLoading.R
+    Untracked:  code/SpatialPCA_SpatialPCs.R
+    Untracked:  code/SpatialPCA_buildKernel.R
+    Untracked:  code/SpatialPCA_highresolution.R
+    Untracked:  code/SpatialPCA_utilties.R
+    Untracked:  data/LIBD_sample9.RData
+    Untracked:  data/Puck_200115_08_count_location.RData
+    Untracked:  data/ST_data.RData
+    Untracked:  data/Tumor_data.RData
+    Untracked:  data/Vizgen_Merfish_count_location.RData
+    Untracked:  data/slideseq.rds
+
+</code></pre>
+<p>
+Note that any generated files, e.g. HTML, png, CSS, etc., are not
+included in this status report because it is ok for generated content to
+have uncommitted changes.
+</p>
+</div>
+</div>
+</div>
+</div>
+<hr>
+</div>
+<div id="versions" class="tab-pane fade">
+
+<p>
+These are the previous versions of the repository in which changes were
+made to the R Markdown (<code>analysis/ST.Rmd</code>) and HTML
+(<code>docs/ST.html</code>) files. If you’ve configured a remote Git
+repository (see <code>?wflow_git_remote</code>), click on the hyperlinks
+in the table below to view the files as they were in that past version.
+</p>
+<div class="table-responsive">
+<table class="table table-condensed table-hover">
+<thead>
+<tr>
+<th>
+File
+</th>
+<th>
+Version
+</th>
+<th>
+Author
+</th>
+<th>
+Date
+</th>
+<th>
+Message
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+html
+</td>
+<td>
+44fb96c
+</td>
+<td>
+shangll123
+</td>
+<td>
+2022-08-13
+</td>
+<td>
+wflow_git_commit(all = TRUE)
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+45f1160
+</td>
+<td>
+shangll123
+</td>
+<td>
+2022-08-13
+</td>
+<td>
+Build site.
+</td>
+</tr>
+<tr>
+<td>
+Rmd
+</td>
+<td>
+28508cf
+</td>
+<td>
+shangll123
+</td>
+<td>
+2022-08-13
+</td>
+<td>
+wflow_git_commit(all = TRUE)
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+d7a07d0
+</td>
+<td>
+shangll123
+</td>
+<td>
+2022-08-13
+</td>
+<td>
+Build site.
+</td>
+</tr>
+<tr>
+<td>
+Rmd
+</td>
+<td>
+d8f1e8e
+</td>
+<td>
+shangll123
+</td>
+<td>
+2022-08-13
+</td>
+<td>
+Publish SpatialPCA tutorial
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+7964c20
+</td>
+<td>
+shangll123
+</td>
+<td>
+2022-03-22
+</td>
+<td>
+Build site.
+</td>
+</tr>
+<tr>
+<td>
+Rmd
+</td>
+<td>
+251c36f
+</td>
+<td>
+shangll123
+</td>
+<td>
+2022-03-22
+</td>
+<td>
+Publish SpatialPCA tutorial
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+</div>
+</div>
+</div>
+<pre class="r"><code>library(SpatialPCA)
+library(ggplot2)</code></pre>
+<div id="loading-data" class="section level4">
+<h4>Loading data</h4>
+<p>The breast tumor data is available <a
+href="https://github.com/almaan/her2st">here</a>. We also saved the raw
+data that we used in our examples in RData format, which can be
+downloaded from <a
+href="https://drive.google.com/drive/folders/1mkXV3kQKqwxk42SW4Rb263FgFj2K8HhT?usp=sharing">here</a>.</p>
+<pre class="r"><code>load(&quot;./data/Tumor_data.RData&quot;) 
+print(dim(rawcount)) # The count matrix
+print(dim(location)) # The location matrix</code></pre>
+</div>
+<div id="create-spatialpca-object" class="section level4">
+<h4>Create SpatialPCA Object</h4>
+<p>SpatialPCA takes the raw count data and location coordinates as
+inputs. We first create a S4 object in the CreateSpatialPCAObject
+function, then select spatial genes using sparkx in this dataset with
+large sample size.</p>
+<pre class="r"><code># location matrix: n x 2, count matrix: g x n.
+# here n is spot number, g is gene number.
+# here the column names of sp_count and rownames of location should be matched
+ST = CreateSpatialPCAObject(counts=rawcount, location=location, project = &quot;SpatialPCA&quot;,gene.type=&quot;spatial&quot;,sparkversion=&quot;spark&quot;, gene.number=3000,customGenelist=NULL,min.loctions = 20, min.features=20)</code></pre>
+</div>
+<div id="estimate-spatial-pcs" class="section level4">
+<h4>Estimate spatial PCs</h4>
+<p>SpatialPCA constructs a kernel matrix to model the spatial pattern of
+spatial PCs.</p>
+<pre class="r"><code>ST = SpatialPCA_buildKernel(ST, kerneltype=&quot;gaussian&quot;, bandwidthtype=&quot;SJ&quot;)
+ST = SpatialPCA_EstimateLoading(ST,fast=FALSE,SpatialPCnum=20)
+ST = SpatialPCA_SpatialPCs(ST, fast=FALSE)</code></pre>
+<p>In this data, we select “SJ” to use Sheather &amp; Jones (1991)
+method, which is usually used in small size datasets to calculate the
+kernel bandwidth. The user can also specify other bandwidth on their own
+if needed. After specifying the kernel matrix, SpatialPCA estimates the
+loading matrix and the spatial PCs.</p>
+</div>
+<div id="detect-spatial-domains" class="section level4">
+<h4>Detect spatial domains</h4>
+<p>SpatialPCA detects spatial domains through clustering on the spatial
+PCs. Here we use louvain’s clustering method, which is faster than
+walktrap method in large sample datasets.</p>
+<pre class="r"><code>clusterlabel= walktrap_clustering(7, ST@SpatialPCs,round(sqrt(dim(ST@location)[1])))
+clusterlabel_refine=refine_cluster_10x(clusterlabel,ST@location,shape=&quot;square&quot;)</code></pre>
+</div>
+<div id="spatial-domains-detected-by-spatialpca."
+class="section level4">
+<h4>Spatial domains detected by SpatialPCA.</h4>
+<pre class="r"><code># set color
+cbp_spatialpca = c(  &quot;mediumaquamarine&quot;, &quot;chocolate1&quot;,&quot;dodgerblue&quot;,  &quot;#F0E442&quot;,&quot;palegreen4&quot;,&quot;lightblue2&quot;,&quot;plum1&quot;)
+# visualize the cluster
+plot_cluster(legend=&quot;right&quot;,location=ST@location,clusterlabel_refine,pointsize=5,text_size=20 ,title_in=paste0(&quot;SpatialPCA&quot;),color_in=cbp_spatialpca)</code></pre>
+<p align="center">
+<p><img src="./figure/ST.Rmd/STcluster.pdf" width="300" height="300"/></p>
+</p>
+</div>
+<div id="trajectory-inference" class="section level4">
+<h4>Trajectory inference</h4>
+<p>In ST data, we focused on trajectory inference on tumor and tumor
+adjacent regions to investigate how these locations are connected to one
+another and underlie tumorigenesis. Based on the inferred pseudo-time
+values, we connected neighboring locations on the tissue to construct
+trajectories.</p>
+<pre class="r"><code>library(slingshot)
+# trajectory on the whole tissue slice
+sim = SingleCellExperiment(assays = SpatialPCA_result$rawcount)
+reducedDims(sim) = SimpleList(DRM = t(ST@SpatialPCs))
+colData(sim)$Walktrap = factor(clusterlabel_refine)    
+# in this data we set tumor region as start cluster
+sim  =slingshot(sim, clusterLabels = &#39;Walktrap&#39;, reducedDim = &#39;DRM&#39;,start.clus=&quot;2&quot; ) 
+
+
+# focus on tumor and its surrounding region
+tumor_ind = which(clusterlabel_refine %in% c(2,3,7))
+sim_tumor = SingleCellExperiment(assays = rawcount[,tumor_ind])
+reducedDims(sim_tumor) = SimpleList(DRM = t(ST@SpatialPCs[,tumor_ind]))
+colData(sim_tumor)$Walktrap = factor(clusterlabel_refine[tumor_ind])    
+sim_tumor  =slingshot(sim_tumor, clusterLabels = &#39;Walktrap&#39;, reducedDim = &#39;DRM&#39;,start.clus=&quot;2&quot; ) 
+# in this data we set tumor region as start cluster
+summary(sim_tumor@colData@listData)
+
+# visualize on whole tissue
+pseudotime_traj1_tumor = sim_tumor@colData@listData$slingPseudotime_1
+clusterlabels_tumor = SpatialPCA_result$clusterlabel_refine[tumor_ind]
+tumor_ind = which(clusterlabel_refine %in% c(2,3,7))
+pseudotime_traj1 = sim@colData@listData$slingPseudotime_1
+pseudotime_traj1[-tumor_ind]=NA
+pseudotime_traj1[tumor_ind]=pseudotime_traj1_tumor
+
+gridnum = 10
+color_in=c(  &quot;mediumaquamarine&quot;, &quot;chocolate1&quot;,&quot;dodgerblue&quot;,  &quot;#F0E442&quot;,&quot;palegreen4&quot;,&quot;lightblue2&quot;,&quot;plum1&quot;,&quot;black&quot;,&quot;#CC79A7&quot;,&quot;mediumpurple&quot;,&quot;seagreen1&quot;)
+
+p_traj1 = plot_trajectory(pseudotime_traj1, location,clusterlabels,gridnum,color_in,pointsize=5 ,arrowlength=0.3,arrowsize=1.3,textsize=15 )
+print(ggarrange( p_traj1[[4]],p_traj1[[1]],
+          ncol = 2, nrow = 1))</code></pre>
+<p align="center">
+<p><img src="./figure/ST.Rmd/traj1.pdf" width="600" height="300"/></p>
+</p>
+</div>
+<div id="high-resolution-map-reconstruction" class="section level4">
+<h4>High resolution map reconstruction</h4>
+<p>The users can select data platform (“ST”, “Visium”, or “Other”) in
+high resolution spatial map reconstruction. We impute nine subspots for
+each ST spot and impute six subspots for each Visium spot, as the ST and
+Visium spots are arranged on square and hexagonal lattices. For other
+types of data, we impute four new locations for each measured location.
+We also allow users to directly specify the coordinates of unmeasured
+locations through the “newlocation” option.</p>
+<pre class="r"><code>STsimu_high_ST = SpatialPCA_highresolution(ST, platform=&quot;ST&quot;,newlocation=NULL)
+cluster_SpatialPCA_high = walktrap_clustering(7, latent_dat=STsimu_high_ST@highPCs,200)
+color_in=c(  &quot;palegreen4&quot;, &quot;chocolate1&quot;,&quot;plum1&quot;,  &quot;#F0E442&quot;,&quot;mediumaquamarine&quot;,&quot;dodgerblue&quot;,&quot;lightblue2&quot;)
+title_in=&quot;SpatialPCA High resolution&quot;
+plot_cluster(STsimu_high_ST@highPos, as.character(cluster_SpatialPCA_high), pointsize=2,text_size=20 ,title_in,color_in,legend=&quot;bottom&quot;)</code></pre>
+<p align="center">
+<p><img src="./figure/ST.Rmd/Highresolution1.pdf" width="300" height="300"/></p>
+</p>
+<br>
+<p>
+<button type="button" class="btn btn-default btn-workflowr btn-workflowr-sessioninfo" data-toggle="collapse" data-target="#workflowr-sessioninfo" style="display: block;">
+<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span>
+Session information
+</button>
+</p>
+<div id="workflowr-sessioninfo" class="collapse">
+<pre class="r"><code>sessionInfo()</code></pre>
+<pre><code>R version 4.2.1 (2022-06-23)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 18.04.5 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/openblas/libblas.so.3
+LAPACK: /usr/lib/x86_64-linux-gnu/libopenblasp-r0.2.20.so
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    
+ [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.3.6    SpatialPCA_1.3.0 workflowr_1.7.0 
+
+loaded via a namespace (and not attached):
+  [1] plyr_1.8.7            igraph_1.2.7          lazyeval_0.2.2       
+  [4] sp_1.5-0              splines_4.2.1         listenv_0.8.0        
+  [7] scattermore_0.8       digest_0.6.29         foreach_1.5.2        
+ [10] htmltools_0.5.3       SPARK_1.1.1           fansi_1.0.3          
+ [13] magrittr_2.0.3        tensor_1.5            cluster_2.1.3        
+ [16] doParallel_1.0.17     ROCR_1.0-11           globals_0.15.0       
+ [19] matrixStats_0.61.0    askpass_1.1           spatstat.sparse_2.1-1
+ [22] pdist_1.2.1           colorspace_2.0-3      ggrepel_0.9.1        
+ [25] xfun_0.27             dplyr_1.0.9           rgdal_1.5-32         
+ [28] callr_3.7.0           jsonlite_1.8.0        progressr_0.10.1     
+ [31] spatstat.data_2.2-0   survival_3.3-1        zoo_1.8-10           
+ [34] iterators_1.0.14      glue_1.6.2            polyclip_1.10-0      
+ [37] gtable_0.3.0          leiden_0.4.2          future.apply_1.9.0   
+ [40] abind_1.4-5           scales_1.2.0          DBI_1.1.2            
+ [43] miniUI_0.1.1.1        Rcpp_1.0.9            viridisLite_0.4.0    
+ [46] xtable_1.8-4          reticulate_1.22       spatstat.core_2.3-0  
+ [49] matlab_1.0.4          umap_0.2.8.0          htmlwidgets_1.5.4    
+ [52] httr_1.4.3            RColorBrewer_1.1-3    ellipsis_0.3.2       
+ [55] Seurat_4.0.5          ica_1.0-2             pkgconfig_2.0.3      
+ [58] sass_0.4.2            uwot_0.1.11           deldir_1.0-6         
+ [61] utf8_1.2.2            tidyselect_1.1.2      rlang_1.0.2          
+ [64] reshape2_1.4.4        later_1.3.0           munsell_0.5.0        
+ [67] tools_4.2.1           cachem_1.0.6          cli_3.3.0            
+ [70] generics_0.1.3        ggridges_0.5.3        evaluate_0.15        
+ [73] stringr_1.4.0         fastmap_1.1.0         yaml_2.3.5           
+ [76] goftest_1.2-3         processx_3.5.3        knitr_1.36           
+ [79] fs_1.5.2              fitdistrplus_1.1-8    purrr_0.3.4          
+ [82] RANN_2.6.1            pbapply_1.5-0         future_1.26.1        
+ [85] nlme_3.1-157          whisker_0.4           mime_0.12            
+ [88] pracma_2.3.8          compiler_4.2.1        rstudioapi_0.13      
+ [91] plotly_4.10.0         png_0.1-7             spatstat.utils_2.3-1 
+ [94] tibble_3.1.5          bslib_0.4.0           stringi_1.7.8        
+ [97] ps_1.7.0              RSpectra_0.16-1       rgeos_0.5-9          
+[100] lattice_0.20-45       Matrix_1.4-1          vctrs_0.4.1          
+[103] CompQuadForm_1.4.3    pillar_1.8.0          lifecycle_1.0.1      
+[106] spatstat.geom_2.3-0   lmtest_0.9-40         jquerylib_0.1.4      
+[109] RcppAnnoy_0.0.19      data.table_1.14.2     cowplot_1.1.1        
+[112] irlba_2.3.5           httpuv_1.6.3          patchwork_1.1.1      
+[115] R6_2.5.1              promises_1.2.0.1      KernSmooth_2.23-20   
+[118] gridExtra_2.3         parallelly_1.31.1     codetools_0.2-18     
+[121] MASS_7.3-57           assertthat_0.2.1      openssl_2.0.2        
+[124] rprojroot_2.0.3       withr_2.5.0           SeuratObject_4.1.0   
+[127] sctransform_0.3.3     mgcv_1.8-40           parallel_4.2.1       
+[130] grid_4.2.1            rpart_4.1.16          tidyr_1.1.4          
+[133] rmarkdown_2.14        Rtsne_0.16            git2r_0.30.1         
+[136] getPass_0.2-2         shiny_1.7.2          </code></pre>
+</div>
+</div>
+
+
+<!-- Adjust MathJax settings so that all math formulae are shown using
+TeX fonts only; see
+https://docs.mathjax.org/en/latest/web/configuration.html. This will make
+the presentation more consistent at the cost of the webpage sometimes
+taking slightly longer to load. Note that this only works because the
+footer is added to webpages before the MathJax javascript. -->
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
+
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
