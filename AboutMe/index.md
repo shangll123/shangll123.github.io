@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Test"
+title: "About Me"
 navtab: "Lulu Shang"
 description: 
 group: navigation
