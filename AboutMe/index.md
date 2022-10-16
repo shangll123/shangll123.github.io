@@ -30,7 +30,7 @@ navorder: 1
 	
 </div> 
 
-<img align="left" src="/assets/themes/images/logo/profile.png" alt="photo" width="200"/> 
+<img align="left" src="/assets/themes/images/logo/profile.png" alt="photo" width="400"/> 
 
 <br clear="left"/>
 <hr/>
