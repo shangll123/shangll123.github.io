@@ -23,8 +23,6 @@ categories:
 	
 </div> 
 
-<img align="left" src="assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="200"/> 
-
 <br clear="left"/>
 <hr/>
 
