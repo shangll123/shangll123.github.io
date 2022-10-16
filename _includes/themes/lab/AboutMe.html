@@ -1,75 +1,164 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+
+{% assign member = page %}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-md-3">
+		<div class="media">
+			{% if member.image %}
+			<img class="pull-left pad-right big-member-photo" src="{{ member.image }}">
+			{% endif %}
+		</div>
+	</div>
+	<div class="col-md-9">
+		<div class="pull-left pad-right media-body titlebox">
+			<div class="title media-heading">
+				{{ member.title }}
+			</div>
+			<br/>
+			<div class="smallhead">
+				{{ member.position }}
+			</div>
+			<br/>
+			<div class="smallhead">
+				{{ member.institute }}
+			</div>
+		</div>
+	</div>				
 </div>
 
-{% for member in site.categories.team %}
-  {% if member.handle == page.author_handle %}
-    {% assign author = member %}
-  {% endif %}
-{% endfor %}
+<div class="bigspacer"></div>
 
-<div class="row post-full">
-  <div class="col-md-2">
-    <div class="bigspacer"></div>
-    <div class="glyphbox note"> <!-- DAD: what is this--> 
-        <div class="smallhead">
-          {{ page.date | date_to_string }}
-          {% if author %}
-          <div class="bigspacer"></div>
-          by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
-          {% endif %}           
-        </div>
-        <div class="bigspacer"></div>
-       <div class="smallhead">
-        Share
-      </div>
-        <!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-        <div class="post-sharing">
-         {% include JB/sharing %}
-        </div>
-    </div>
-  </div>
-  <div class="col-md-10">
-    <div class="bigspacer"></div>
-    <div class="glyphbox note"> <!-- DAD: what is this--> 
-      <div class="content">
-        {{ content }}
-      </div>
-    </div>
-  </div>
+<div class="row">
+	<div class="col-md-3">  			
+		{% if member.cv %}		
+		<div class="smallhead">
+			CV
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-file-text-o fa-fw"></i>			
+			<a class="off" href="{{ member.cv }}">{{ member.cv | split: '/' | last }}</a>
+		</div>		
+		<div class="bigspacer"></div>		
+		{% endif %}	  		
+		{% if member.web %}
+		<div class="smallhead">
+			Website
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-external-link-square"></i>
+			<a class="off" href="http://{{ member.web }}">{{ member.web }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}	
+		{% if member.twitter %}		
+		<div class="smallhead">
+			Twitter
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-twitter fa-fw"></i>
+			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
+		</div>		
+		<div class="bigspacer"></div>				
+		{% endif %}	
+		{% if member.github %}
+		<div class="smallhead">
+			GitHub
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-github"></i>
+			<a class="off" href="https://github.com/{{ member.github }}">{{ member.github }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}		
+		{% if member.scholar %}
+		<div class="smallhead">
+			Google Scholar
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="ai ai-google-scholar"></i>
+			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}">{{ member.title }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}
+		{% if member.skype %}
+		<div class="smallhead">
+			Skype
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-skype"></i>
+			<a class="off">{{ member.skype }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}				   	
+		{% if member.email %}
+		{% assign emailarray = member.email | split: '@' %}
+		<div class="smallhead">
+			Email
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-inbox fa-fw"></i>
+			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
+		</div>		
+		<div class="bigspacer"></div>			
+		{% endif %}						
+	</div>
+	<div class="col-md-8">	
+		<div class="post">
+			{{ content }}
+		</div>
+		
+		{% assign lastname = member.title | split: ' ' | last %}
+		{% assign firstname = member.title | split: ' ' | first %}
+		{% for paper in site.categories.papers %}
+			{% if paper.authors contains lastname and paper.authors contains firstname %}
+				{% assign papersq = true %}
+			{% endif %}
+		{% endfor %}
 
-  {% unless page.categories == empty %}
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      {% assign categories_list = page.categories %}
-      {% include JB/categories_list %}
-    </ul>
-  {% endunless %}  
-  {% unless page.tags == empty %}
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      {% assign tags_list = page.tags %}
-      {% include JB/tags_list %}
-    </ul>
-  {% endunless %}
-
-  {% comment %}
-    <hr>
-    <ul class="pagination">
-    {% if page.previous %}
-      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
-    {% else %}
-      <li class="prev disabled"><a>&larr; Previous</a></li>
-    {% endif %}
-      <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-    {% if page.next %}
-      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
-    {% else %}
-      <li class="next disabled"><a>Next &rarr;</a>
-    {% endif %}
-    </ul>
-  {% endcomment %}
-    <hr>
-    {% include JB/comments %}
-
-</div>
+		{% if papersq == true %}
+			<div class="bigspacer"></div>
+			<div class="head">Papers</div>
+			<div class="spacer"></div>
+			{% for paper in site.categories.papers %}
+				{% if paper.authors contains lastname and paper.authors contains firstname %}
+					{% if paper.embargo %}
+					<p>{{ paper.title }}
+					{% else %}
+					<p><a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+		{% endif %}		
+		
+		{% for post in site.categories.blog %}
+			{% if member.handle == post.author_handle %}
+				{% assign postsq = true %}
+			{% endif %}
+		{% endfor %}
+		
+		{% if postsq == true %}
+			<div class="bigspacer"></div>
+			<div class="head">Posts</div>
+			<div class="spacer"></div>
+			{% for post in site.categories.blog %}
+				{% if member.handle == post.author_handle %}
+					<p><a href="{{ post.url }}" class="off">{{ post.title }}</a>
+				{% endif %}
+			{% endfor %}
+		{% endif %}	
+		
+	</div>			
+	<div class="col-md-1"></div>
+</div>	
