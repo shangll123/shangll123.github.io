@@ -12,7 +12,7 @@ categories:
 {% endfor %}
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-<img align="right" src="assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="200"/> 
+
 <div class="row">
 	<div class="col-md-12">
 		<div class="bigtitle logobox">
@@ -22,13 +22,8 @@ categories:
 	
 </div> 
 
+<img align="right" src="assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="200"/> 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <hr/>
 
