@@ -22,9 +22,9 @@ categories:
 	
 </div> 
 
-<img align="right" src="assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="200"/> 
+<img align="left" src="assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="200"/> 
 
-<br/>
+<br clear="left"/>
 <hr/>
 
 [[Publications]](/papers/) [[CV]](https://www.overleaf.com/read/cnvskyngdygn) 
