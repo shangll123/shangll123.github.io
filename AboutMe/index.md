@@ -30,7 +30,7 @@ navorder: 1
 	
 </div> 
 
-<img align="left" src="https://github.com/lulushang/lulushang.github.io/blob/a2f14c96c32ea3453f35453e3e4dacd8f0c24e97/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="200"/> 
+<img align="left" src="/assets/themes/images/logo/profile.png" alt="photo" width="200"/> 
 
 <br clear="left"/>
 <hr/>
