@@ -23,7 +23,7 @@ categories:
 	
 </div> 
 
-<img align="left" src="assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300"/> 
+<img align="left" src="assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="200"/> 
 
 <hr/>
 My name is Lulu Shang. I am a PhD candidate in the Department of Biostatistics at the University of Michigan. I have been working with Prof. [Xiang Zhou](http://xzlab.org) on developing statistical methods for genetic and genomic datasets. My recent focus is on developing methods for analyzing spatial transcriptomics. I also work closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study.
