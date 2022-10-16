@@ -37,7 +37,7 @@ I am a PhD candidate in the Department of Biostatistics at the University of Mic
 
 <hr/>
 
-**Research Theme**:
+**Research Interests**:
 
 My research interest is in developing effective and efficient statistical and computational methods in single cell and spatial transcriptomics to address critical biological problems such as omics data dimension reduction and integration in genetics and genomics. Specifically, my work consists of three important directions: (1) developing efficient and powerful computational and statistical methods in single cell and spatial transcriptomics; (2) integrating genome-wide association studies (GWASs) with single cell and bulk RNA-seq to understand disease etiology; and (3) performing large-scale quantitative trait association studies in underrepresented populations.
 
