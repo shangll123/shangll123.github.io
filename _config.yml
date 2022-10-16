@@ -20,11 +20,11 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Zhenke Wu, PhD
-tagline: Research updates on Bayesian modelling, causal models and individualized health from Johns Hopkins Biostatistics
-url: http://zhenkewu.com
-name : Zhenke Wu, PhD
-description: Research updates on Bayesian modelling, causal models and individualized health from Johns Hopkins Biostatistics
+title : Lulu Shang
+tagline: # Research updates on Bayesian modelling, causal models and individualized health from Johns Hopkins Biostatistics
+url: http://lulushang.org
+name : Lulu Shang
+description: # Research updates on Bayesian modelling, causal models and individualized health from Johns Hopkins Biostatistics
 
 
 institution:
