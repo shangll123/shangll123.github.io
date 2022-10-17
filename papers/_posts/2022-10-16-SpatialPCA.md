@@ -6,7 +6,7 @@ authors: Lulu Shang, Xiang Zhou
 year: 2022
 shortref: Shang et al. (2022) 
 journal: 
-type: Analysis
+type: Statistical Methods
 doi: 
 ---
 
