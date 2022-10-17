@@ -19,7 +19,7 @@ categories:
 			<div class="bigtitle logobox">	
 			Lulu Shang
 		</div>
-            	<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300" align="middle"/>
+            	<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300" align="middle">
 	</div>	
 </div> 
 
