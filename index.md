@@ -29,14 +29,6 @@ categories:
 
 
 
-<div class="flex-container">
-    <div class="flex-right">
-	<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300"/>
-    </div>
-    <div class="flex-left">
-	Lulu Shang
-    </div>
-</div>
 
 
 <br clear="left"/>
