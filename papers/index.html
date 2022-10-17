@@ -62,6 +62,34 @@ navorder: 2
 {% cycle 'close rows2': '', '</div><div class="bigspacer"></div>', '</div><div class="bigspacer"></div>' %}
 </div>
 
+<hr/>
+<div class="smalltitle text-left">Collaborative work</div>
+<div class="bigspacer"></div>
+
+<div class="container">
+<div class="bigspacer"></div>
+{% for paper in site.categories.papers %}
+  {% if paper.type == "collaborative"%}
+    {% cycle 'add rows2': '<div class="row">', '', '' %}
+		<div class="col-md-4 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="{{ paper.url }}">
+    				<img width=100 class="media-object" src="{{ paper.image }}">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="{{ paper.url }}" class="off">{{ paper.title }}</a></div>
+    				<p class="note">{{ paper.shortref }}</p>
+  				</div>
+			</div>
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+        </div>
+    {% cycle 'close rows2': '', '', '</div>' %}
+ {% endif %}
+{% endfor %}
+{% cycle 'close rows2': '', '</div><div class="bigspacer"></div>', '</div><div class="bigspacer"></div>' %}
+</div>
+
 <div class="bigspacer"></div>
 
 <div class="infinite-spinner"></div>
