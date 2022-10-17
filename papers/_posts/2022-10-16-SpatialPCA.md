@@ -7,7 +7,7 @@ year: 2022
 shortref: Shang et al. (2022) 
 journal: 
 type: Statistical Methods
-doi: 
+doi: https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf
 ---
 
 # Abstract
