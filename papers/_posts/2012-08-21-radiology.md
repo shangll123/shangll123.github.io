@@ -6,7 +6,7 @@ authors: Christos Georgiades, Jean-François Geschwind, Neil Harrison, Andrew Hi
 year: 2012
 shortref: Georgiades et al. (2012) Radiology
 journal: "Radiology"
-type: substantive
+type: analysis
 doi: 10.1148/radiol.12112264
 ---
 
