@@ -7,12 +7,12 @@ year: 2022
 shortref: Shang et al. (2022) 
 journal: 
 type: statistical
-doi: https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf
+doi: 
 ---
 
 # Abstract
 
-**Purpose**
+**Overview**
 SpatialPCA is a spatially aware dimension reduction method that aims to infer a low dimensional representation of the gene expression data in spatial transcriptomics. 
 
 **Materials and Methods**
@@ -23,3 +23,10 @@ In the real data applications, SpatialPCA identifies key molecular and immunolog
 
 **Conclusion**
 SpatialPCA is computationally efficient, easily scalable to spatial transcriptomics with tens of thousands of spatial locations and thousands of genes. We have illustrated the benefits of SpatialPCA for spatial transcriptomics visualization, spatial domain detection, trajectory inference on the tissue, as well as high-resolution spatial map construction.
+
+<div class="middle">
+    <img src="/assets/images/papers/SpatialPCA_workflow.png" alt="photo" width="600"/>
+</div>
+    
+**Biorxiv**
+[https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf](https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf)
