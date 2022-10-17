@@ -31,12 +31,10 @@ categories:
 
 <div class="flex-container">
     <div class="flex-right">
-<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300"/>
+	<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300"/>
     </div>
     <div class="flex-left">
-	<div class="bigtitle logobox">	
-			Lulu Shang
-	</div>
+	Lulu Shang
     </div>
 </div>
 
