@@ -14,15 +14,4 @@
     url: 
     author_login: SpatialPCA
     author_url: https://github.com/shangll123/SpatialPCA
-- repo: zhenkewu/mpcr
-  title: mpcr
-  owner: zhenkewu
-  description: R package for estimating treatment effects in matched-pair cluster
-    randomized trials (MPCR) using covariate calibration
-  url: /projects/mpcr
-  contributors:
-  - login: zhenkewu
-    avatar: https://avatars1.githubusercontent.com/u/4580992?v=3&s=50
-    url: https://github.com/zhenkewu
-  commits:
-  
+
