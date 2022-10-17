@@ -1,0 +1,20 @@
+---
+- repo: oslerinhealth
+  title: oslerinhealth
+  owner: oslerinhealth
+  description: Open Source Learning Environment in R for Individualized Health
+  url: /projects/oslerinhealth
+  contributors:
+  - login: oslerinhealth
+    avatar: https://avatars1.githubusercontent.com/u/26066609?v=4&s=400
+    url: https://github.com/oslerinhealth
+    
+- repo: SpatialPCA
+  title: SpatialPCA
+  owner: Lulu Shang
+  description: SpatialPCA
+  url: /projects/SpatialPCA
+  contributors:
+  - login: shangll123
+    avatar: 
+    url: https://github.com/shangll123
