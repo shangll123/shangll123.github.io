@@ -16,13 +16,13 @@ categories:
 <div class="row">
 	<div class="col-md-12">
 		<!-- <object class="pull-left biglogo" data="assets/themes/lab/images/logo/logo-none.svg" type="image/svg+xml"></object> -->
-		<div class="right">
+		<div class="left">
 			<div class="bigtitle logobox">	
 			Lulu Shang
 			</div>
 		</div>
 		<div class="right">
-            	<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="" />
+            	<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300"/>
 		</div>
 	</div>	
 </div> 
