@@ -42,7 +42,7 @@ https://doi.org/10.1016/j.ajhg.2020.03.002
 <br />
 **Citation**
 <br />
-Shang, Lulu, Jennifer A. Smith, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia, and Xiang Zhou. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.
+Lulu Shang*, Jennifer A. Smith*, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia†, and Xiang Zhou†. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.
 
 
 
