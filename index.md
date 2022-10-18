@@ -23,7 +23,7 @@ categories:
 </div> 
 
 
-<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300" class="center">
+
 
 
 <br clear="left"/>
@@ -204,4 +204,8 @@ loci mapping, methylation studies, and gene regulatory network.
 </div>
 
 <div class="bigspacer"></div>
+
+<img src="/assets/themes/lab/images/logo/background_fall.jpeg" alt="photo" width="1000">
+
+
 
