@@ -25,27 +25,20 @@ In the real data applications, SpatialPCA identifies key molecular and immunolog
 SpatialPCA is computationally efficient, easily scalable to spatial transcriptomics with tens of thousands of spatial locations and thousands of genes. We have illustrated the benefits of SpatialPCA for spatial transcriptomics visualization, spatial domain detection, trajectory inference on the tissue, as well as high-resolution spatial map construction.
 
 <div class="middle">
-    <img src="/assets/images/papers/SpatialPCA_workflow.png" alt="photo" width="600"/>
+    <img src="/assets/images/papers/SpatialPCA_main_figure.jpeg" alt="photo" width="500"/>
 </div>
 
-**Biorxiv**
+<br />
+
+**Biorxiv:**
+<br />
 [https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf](https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf)
 
+<br />
 
 **Tutorial of SpatialPCA**
+<br />
 [SpatialPCA Tutorial](https://lulushang.org/SpatialPCA_Tutorial/index.html)
 
-**Analysis Codes**
-<br />
-[Simulation](https://lulushang.org/docs/Projects/SpatialPCA/Simulation)
-<br />
-[DLPFC dataset](https://lulushang.org/docs/Projects/SpatialPCA/DLPFC)
-<br />
-[Slide-Seq mouse cerebellum dataset](https://lulushang.org/docs/Projects/SpatialPCA/Slideseq)
-<br />
-[Slide-Seq V2 mouse hippocampus dataset](https://lulushang.org/docs/Projects/SpatialPCA/SlideseqV2)
-<br />
-[Human breast cancer ST dataset](https://lulushang.org/docs/Projects/SpatialPCA/HER2ST)
-<br />
 
 
