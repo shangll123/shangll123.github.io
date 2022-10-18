@@ -179,9 +179,6 @@ SpatialPCA_result = list()
 SpatialPCA_result$SpatialPCs  = ST@SpatialPCs
 SpatialPCA_result$normalized_expr  = ST@normalized_expr
 SpatialPCA_result$location = ST@location
-pred_cluster= walktrap_clustering(clusternum[kk], ST@SpatialPCs,round(sqrt(dim(ST@location)[1])))
-SpatialPCA_result$clusterlabel = pred_cluster
-SpatialPCA_result$clusterlabel_refine=refine_cluster_10x(pred_cluster,SpatialPCA_result$location,shape="square")
 save(SpatialPCA_result, file = paste0("ST_SpatialPCA_sample",kk,"result.RData"))
 
 }
