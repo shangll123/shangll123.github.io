@@ -29,7 +29,7 @@ categories:
 <br clear="left"/>
 <hr/>
 
-[[Publications]](/papers/) [[CV]](https://www.overleaf.com/read/cnvskyngdygn) 
+[[Publications]](/papers/) 
 [[Google Scholar<i class="ai ai-google-scholar"></i>]](https://scholar.google.com/citations?hl=en&user=tkt5ZOYAAAAJ&view_op=list_works&sortby=pubdate) [[GitHub<i class="fa fa-github"></i>]](https://github.com/shangll123) [[Twitter<i class="fa fa-twitter"></i>]](https://twitter.com/shang_lulu).
 
 
