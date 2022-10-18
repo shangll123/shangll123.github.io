@@ -27,6 +27,19 @@ SpatialPCA is computationally efficient, easily scalable to spatial transcriptom
 <div class="middle">
     <img src="/assets/images/papers/SpatialPCA_workflow.png" alt="photo" width="600"/>
 </div>
-    
+
+
+**Tutorial of SpatialPCA**
+[SpatialPCA Tutorial](https://lulushang.org/SpatialPCA_Tutorial/index.html)
+
+**Analysis Codes**
+[Simulation](https://lulushang.org/docs/Projects/SpatialPCA/Simulation)
+[DLPFC dataset](https://lulushang.org/docs/Projects/SpatialPCA/DLPFC)
+[Slide-Seq mouse cerebellum dataset](https://lulushang.org/docs/Projects/SpatialPCA/Slideseq)
+[Slide-Seq V2 mouse hippocampus dataset](https://lulushang.org/docs/Projects/SpatialPCA/SlideseqV2)
+[Human breast cancer ST dataset](https://lulushang.org/docs/Projects/SpatialPCA/HER2ST)
+
+
+
 **Biorxiv**
 [https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf](https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf)
