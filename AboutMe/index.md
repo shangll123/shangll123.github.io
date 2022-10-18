@@ -8,15 +8,6 @@ navorder: 1
 ---
 {% include JB/setup %}
 
-<style>
-    img.photo{
-          object-fit: cover;
-          border-radius: 50%;
-          object-position: 10% 10%; 
-          width:150px;
-          height:150px;
-    }
-</style>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
