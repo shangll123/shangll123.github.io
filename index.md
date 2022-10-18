@@ -205,7 +205,7 @@ loci mapping, methylation studies, and gene regulatory network.
 
 <div class="bigspacer"></div>
 
-<img src="/assets/themes/lab/images/logo/background_fall.jpeg" alt="photo" width="1000">
+<img src="/assets/themes/lab/images/logo/background2.png" alt="photo" width="800">
 
 
 
