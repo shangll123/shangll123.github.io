@@ -30,7 +30,7 @@ I am a PhD candidate in the Department of Biostatistics at the University of Mic
 
 Previously, I obtained my bachelor’s degree in Biology from the Zhiyuan Honored College at Shanghai Jiao Tong University (2012-2016). 
 
-
+<hr/>
 <img src="/assets/themes/lab/images/logo/background1.jpeg" alt="photo" width="1000" class="center">
 
 
