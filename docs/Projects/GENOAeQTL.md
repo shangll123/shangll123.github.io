@@ -14,6 +14,7 @@ permalink: /docs/Projects/GENOAeQTL
 ### Paper citation:
 Lulu Shang\*, Jennifer A. Smith\*, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon L.R. Kardia†, Xiang Zhou† (2020). Contrasting the genetic architecture underlying gene expression levels in European Americans and African Americans: An eQTL mapping study in GENOA. *American Journal of Human Genetics* .
 
+### Paper DOI: https://doi.org/10.1016/j.ajhg.2020.03.002.
 
 ### Here are some slides for DEI presentation on March 13, 2020:
 
