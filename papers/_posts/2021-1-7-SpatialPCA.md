@@ -24,6 +24,8 @@ In the real data applications, SpatialPCA identifies key molecular and immunolog
 **Conclusion**
 SpatialPCA is computationally efficient, easily scalable to spatial transcriptomics with tens of thousands of spatial locations and thousands of genes. We have illustrated the benefits of SpatialPCA for spatial transcriptomics visualization, spatial domain detection, trajectory inference on the tissue, as well as high-resolution spatial map construction.
 
+<br />
+
 <div class="middle">
     <img src="/assets/images/papers/SpatialPCA_main_figure.jpeg" alt="photo" width="500"/>
 </div>
