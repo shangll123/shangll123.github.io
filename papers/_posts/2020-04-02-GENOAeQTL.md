@@ -2,7 +2,7 @@
 layout: paper
 title: "Genetic Architecture of Gene Expression in European and African Americans: An eQTL Mapping Study in GENOA"
 image: /assets/images/papers/GENOA_eQTL.jpg
-authors: Lulu Shang, Jennifer A. Smith, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia, and Xiang Zhou
+authors: Lulu Shang\*, Jennifer A. Smith\*, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia†, and Xiang Zhou†
 year: 2020
 shortref: Shang et al. (2020) 
 journal: 
