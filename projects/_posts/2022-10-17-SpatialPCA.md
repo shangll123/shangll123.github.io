@@ -22,6 +22,13 @@ SpatialPCA is a spatially aware dimension reduction method that aims to infer a 
 
 <img src="/assets/images/papers/SpatialPCA_main_figure.jpeg" alt="photo" width="500"/>
 
+
+# Tutorial of SpatialPCA
+------
+[SpatialPCA Tutorial](https://lulushang.org/SpatialPCA_Tutorial/index.html)
+
+
+
 # Analysis Codes
 ------
 [Simulation](https://lulushang.org/docs/Projects/SpatialPCA/Simulation)
