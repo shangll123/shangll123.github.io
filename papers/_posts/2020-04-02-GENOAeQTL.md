@@ -29,17 +29,16 @@ The large sample sizes in GENOA allow us to construct accurate expression predic
 <img src="/assets/images/papers/GENOA_eQTL.jpg" alt="photo" width="500"/>
 
 
-<br />
 **Paper:**
 <br />
 [Genetic Architecture of Gene Expression in European and African Americans: An eQTL Mapping Study in GENOA](https://doi.org/10.1016/j.ajhg.2020.03.002)
 
-<br />
+
 **DOI**
 <br />
 https://doi.org/10.1016/j.ajhg.2020.03.002
 
-<br />
+
 **Citation**
 <br />
 Lulu Shang*, Jennifer A. Smith*, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia†, and Xiang Zhou†. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.
