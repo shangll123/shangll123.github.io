@@ -25,7 +25,7 @@ The large sample sizes in GENOA allow us to construct accurate expression predic
 <br />
 
 <div class="middle">
-    <img src="//assets/images/papers/GENOA_eQTL.jpg" alt="photo" width="500"/>
+    <img src="/assets/images/papers/GENOA_eQTL.jpg" alt="photo" width="500"/>
 </div>
 
 <br />
