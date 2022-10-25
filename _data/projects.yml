@@ -8,3 +8,12 @@
   - login: shangll123
     avatar: 
     url: https://github.com/shangll123/SpatialPCA
+- repo: xzhoulab/CoCoNet
+  title: CoCoNet
+  owner: Lulu Shang
+  description: CoCoNet
+  url: /projects/CoCoNet
+  contributors:
+  - login: xzhoulab
+    avatar: 
+    url: https://github.com/xzhoulab/CoCoNet
