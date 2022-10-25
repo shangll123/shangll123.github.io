@@ -17,7 +17,7 @@ permalink: /docs/Projects/CoCoNet/package
 <!--- <img align="left" src="/assets/images/papers/Figure1.tiff" alt="drawing" width="300"/> --->
 
 <!---<img align="left" src="/assets/images/papers/coconetmain.tiff" alt="drawing" width="800"/>--->
-<img align="top" src="/assets/images/papers/coconetFig1.jpg" alt="drawing" width="1500"/>
+<img align="top" src="/assets/images/papers/coconetFig1.jpg" alt="drawing" width="500"/>
 
 <!---![Example figure](https://raw.githubusercontent.com/shangll123/shangll123.github.io/master/images/Figure1.png)--->
 
