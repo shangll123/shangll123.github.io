@@ -10,7 +10,7 @@ permalink: /docs/Projects/CoCoNet
 
 {: .fs-6 .fw-300 }
 
-<img align="left" src="/images/coconuts.png" alt="drawing" width="80"/> CoCoNet
+<img align="left" src="/assets/images/papers/coconuts.png" alt="drawing" width="80"/> CoCoNet
 
 Composite likelihood-based Covariance regression Network model
 
