@@ -915,20 +915,20 @@ dev.off()
 
 ##### Plot ranking of tissues
 
-<img align="left" src="/images/tissuerank.png" alt="drawing" width="1200"/>
+<img align="left" src="/assets/images/papers/tissuerank.png" alt="drawing" width="1200"/>
 
 ##### Plot ranking of cell types
-<img align="left" src="/images/cellrank.png" alt="drawing" width="1200"/>
+<img align="left" src="/assets/images/papers/cellrank.png" alt="drawing" width="1200"/>
 
 
 ##### Heatmap of Jaccard index for tissues / cell types
 
-<img align="left" src="/images/tissueheatmap.png" alt="drawing" width="1200"/>
+<img align="left" src="/assets/images/papers/tissueheatmap.png" alt="drawing" width="1200"/>
 
 
 ##### Heatmap of Jaccard index for cell types
 
-<img align="left" src="/images/cellheat.png" alt="drawing" width="1000"/>
+<img align="left" src="/assets/images/papers/cellheat.png" alt="drawing" width="1000"/>
 
 
 # Section 5: Pubmed search results
