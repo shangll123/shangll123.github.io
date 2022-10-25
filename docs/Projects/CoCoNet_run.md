@@ -8,16 +8,16 @@ permalink: /docs/Projects/CoCoNet/package
 ---
 
 
-<!--- [_config.yml]({{ site.baseurl }}/images/config.png)--->
+<!--- [_config.yml]({{ site.baseurl }}/assets/images/papers/config.png)--->
 
 <!--- <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />--->
 
 <!--- <img src="https://latex.codecogs.com/svg.latex?\sum&space;\bigcup_{1}^{n}\overleftarrow{abc}" title="\sum \bigcup_{1}^{n}\overleftarrow{abc}" /> --->
 
-<!--- <img align="left" src="/images/CoCoNet_Figure/Figure1.tiff" alt="drawing" width="300"/> --->
+<!--- <img align="left" src="/assets/images/papers/Figure1.tiff" alt="drawing" width="300"/> --->
 
-<!---<img align="left" src="/images/coconetmain.tiff" alt="drawing" width="800"/>--->
-<img align="top" src="/images/coconetFig1.jpg" alt="drawing" width="1500"/>
+<!---<img align="left" src="/assets/images/papers/coconetmain.tiff" alt="drawing" width="800"/>--->
+<img align="top" src="/assets/images/papers/coconetFig1.jpg" alt="drawing" width="1500"/>
 
 <!---![Example figure](https://raw.githubusercontent.com/shangll123/shangll123.github.io/master/images/Figure1.png)--->
 
