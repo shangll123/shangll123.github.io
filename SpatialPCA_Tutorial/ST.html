@@ -815,7 +815,7 @@ cbp_spatialpca = c(  &quot;mediumaquamarine&quot;, &quot;chocolate1&quot;,&quot;
 # visualize the cluster
 plot_cluster(legend=&quot;right&quot;,location=ST@location,clusterlabel_refine,pointsize=5,text_size=20 ,title_in=paste0(&quot;SpatialPCA&quot;),color_in=cbp_spatialpca)</code></pre>
 <p align="center">
-<p><img src="./figure/ST.Rmd/STcluster.pdf" width="300" height="300"/></p>
+<p><img src="./figure/ST.Rmd/STcluster.jpg" width="300" height="300"/></p>
 </p>
 </div>
 <div id="trajectory-inference" class="section level4">
@@ -858,7 +858,7 @@ p_traj1 = plot_trajectory(pseudotime_traj1, location,clusterlabels,gridnum,color
 print(ggarrange( p_traj1[[4]],p_traj1[[1]],
           ncol = 2, nrow = 1))</code></pre>
 <p align="center">
-<p><img src="./figure/ST.Rmd/traj1.pdf" width="600" height="300"/></p>
+<p><img src="./figure/ST.Rmd/traj1.jpg" width="600" height="300"/></p>
 </p>
 </div>
 <div id="high-resolution-map-reconstruction" class="section level4">
@@ -876,7 +876,7 @@ color_in=c(  &quot;palegreen4&quot;, &quot;chocolate1&quot;,&quot;plum1&quot;,  
 title_in=&quot;SpatialPCA High resolution&quot;
 plot_cluster(STsimu_high_ST@highPos, as.character(cluster_SpatialPCA_high), pointsize=2,text_size=20 ,title_in,color_in,legend=&quot;bottom&quot;)</code></pre>
 <p align="center">
-<p><img src="./figure/ST.Rmd/Highresolution1.pdf" width="300" height="300"/></p>
+<p><img src="./figure/ST.Rmd/Highresolution1.jpg" width="300" height="300"/></p>
 </p>
 <br>
 <p>
