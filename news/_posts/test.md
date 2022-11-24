@@ -1,10 +1,11 @@
 ---
 layout: news
-title: "Welcome!"
+title: "Our SpatialPCA paper is online!"
+description: "Paper published!"
 author: "Lulu Shang"
 author_handle: "Lulu Shang"
 category: news
-tags: [first post]
+tags: [SpatialPCA, dimension reduction, online]
 ---
 
-Test test
+Our SpatialPCA paper is finally online at Nature Communications! Here is the link: https://www.nature.com/articles/s41467-022-34879-1.
