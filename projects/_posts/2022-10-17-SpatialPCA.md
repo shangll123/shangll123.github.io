@@ -17,8 +17,8 @@ SpatialPCA is a spatially aware dimension reduction method that aims to infer a 
 
 # Preprint
 ------
-**Biorxiv:** Spatially Aware Dimension Reduction for Spatial Transcriptomics
-[doi](https://doi.org/10.1101/2022.01.19.476966)
+**Paper:** Spatially Aware Dimension Reduction for Spatial Transcriptomics
+[doi](https://www.nature.com/articles/s41467-022-34879-1)
 
 <img src="/assets/images/papers/SpatialPCA_main_figure.jpeg" alt="photo" width="500"/>
 
