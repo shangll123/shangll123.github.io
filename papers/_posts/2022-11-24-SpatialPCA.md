@@ -32,9 +32,9 @@ SpatialPCA is computationally efficient, easily scalable to spatial transcriptom
 
 <br />
 
-**Biorxiv:**
+**Paper:**
 <br />
-[https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf](https://www.biorxiv.org/content/10.1101/2022.01.19.476966v1.full.pdf)
+[https://www.nature.com/articles/s41467-022-34879-1](https://www.nature.com/articles/s41467-022-34879-1)
 
 <br />
 
