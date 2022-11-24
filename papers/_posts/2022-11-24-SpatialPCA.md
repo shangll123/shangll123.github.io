@@ -5,7 +5,7 @@ image: /assets/images/papers/SpatialPCA_workflow.png
 authors: Lulu Shang, Xiang Zhou
 year: 2022
 shortref: Shang et al. (2022) 
-journal: 
+journal: Nature Communications
 type: statistical
 doi: 
 ---
