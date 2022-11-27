@@ -605,7 +605,70 @@ dev.off()
 
 ```
 
+##### Multiple sample extension
+```R
+#------------------------------
+# use samples 1,5,9 in DLPFC
+#------------------------------
 
+library(SpatialPCA)
+library(RSpectra)
+count_list = list()
+location_list = list()
+count = 0
+for(sampleid in c(1,5,9)){ # we used one sample from each of the three individuals
+	count = count + 1
+	load(paste0("/net/mulan/disk2/shanglu/Projects/SpatialPCA/LIBD/LIBD_sample",sampleid,".RData") )
+    # these are the raw data, which could be downloaded from the SpatialLIBD website http://spatial.libd.org/spatialLIBD/
+    # or from https://drive.google.com/drive/folders/18y7PlSgIDyKJcpSJfzp1gXX5i79t65A1?usp=sharing
+	count_list[[count]] = count_sub
+	xy_coords = as.matrix(xy_coords) # the location coordinate matrix needs to have same sample ids as the count matrix 
+	rownames(xy_coords) = colnames(count_sub)
+	location_list[[count]] = xy_coords
+}
+	
+MultipleSample_merge_SpatialPC = SpatialPCA_Multiple_Sample(count_list,location_list,gene.type="spatial",sparkversion="spark",numCores_spark=5,gene.number=3000, customGenelist=NULL,min.loctions = 20, min.features=20,bandwidth_common=0.1)
+
+integrated_PCs = MultipleSample_merge_SpatialPC$SpatialPC_list
+location_list = MultipleSample_merge_SpatialPC$Location_spatialpc_list
+library(mclust)
+cluster_result = list()
+ARI_result = c()
+count=0
+clusterNum=c(7,5,7)
+for(i in c(1,5,9)){
+	count = count + 1
+	print(i)
+	# load original results of SpatialPCA with single sample, I saved the groundtruth annotation here
+	load( paste0("SpatialPCA_LIBD_sample_",i,".RData")) # these could be downloaded from https://drive.google.com/drive/folders/1DpHEfKFdXKDZTj5_C9h4RRUOMokcR9zT?usp=sharing
+	clusterlabel= walktrap_clustering(clusternum=clusterNum[count],latent_dat=as.matrix(integrated_PCs[[count]]),knearest=70 ) 
+	clusterlabel_refine = refine_cluster_10x(clusterlabels=clusterlabel,location=location_list[[count]],shape="hexagon")
+	cluster_result[[count]] = clusterlabel_refine
+	clusterresults = as.factor(clusterlabel_refine)
+    tabb = na.omit(data.frame("Truth"=SpatialPCA_result$truth,"clusterlabel"=clusterresults))
+	ARI_result[count] = adjustedRandIndex(tabb[,1], tabb[,2])
+
+}
+
+
+ARI_result
+# ARI_result
+# > ARI_result
+# [1] 0.5182331 0.4312012 0.5515096
+
+# original ARI:
+# for(i in c(1,5,9)){
+# load( paste0("SpatialPCA_LIBD_sample_",i,".RData"))
+# print(SpatialPCA_result$ARI)
+# }
+# [1] 0.5399951
+# [1] 0.3760976
+# [1] 0.5770166
+
+
+
+
+```
 
 
 
