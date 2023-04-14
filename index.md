@@ -38,7 +38,7 @@ I am a PhD candidate in the Department of Biostatistics at the University of Mic
 
 <p>
 	
-I will join the Department of Biostatistics at MD Anderson Cancer Center as an tenure-track assistant professor in Sep 2023.
+I will join the Department of Biostatistics at MD Anderson Cancer Center as a tenure-track assistant professor in Sep 2023.
 
 <hr/>
 
