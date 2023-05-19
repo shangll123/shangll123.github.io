@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "DNA Methylation Mediates the Association Between Individual and Neighborhood Social Disadvantage and Cardiovascular Risk Factors"
+title: "DNA methylation mediates the association between individual and neighborhood social disadvantage and cardiovascular risk factors"
 image: /assets/images/papers/Methylation_Mediation.png
 authors: Yi Zhe Wang, Wei Zhao, Farah Ammous, Yanyi Song, Jiacong Du, Lulu Shang, Scott M Ratliff, Kari Moore, Kristen M Kelly, Belinda L Needham, Ana V Diez Roux, Yongmei Liu, Kenneth R Butler, Sharon LR Kardia, Bhramar Mukherjee, Xiang Zhou, Jennifer A Smith
 year: 2022
