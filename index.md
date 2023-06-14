@@ -53,6 +53,10 @@ non-parametric models, dimension reduction, data integration, statistical comput
 - *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA sequencing studies, spatial and single cell multi-omics, genome-wide association studies, genome-wide quantitative
 loci mapping, methylation studies, and gene regulatory network.
 
+**Hiring**:
+
+Applications are invited for a postdoctoral fellow position to join Lulu Shang’s research group. The successful candidate will be working on various research topics in developing statistical methods and computational tools in the field of single cell and spatial transcriptomics. The successful candidate will be offered with competitive benefits and have the opportunity to analyze a variety of large-scale data types at MD Anderson Cancer Center. Applicants should have, or be studying for, a PhD in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. A strong computational background is required. Applicants should send a CV, a short statement of research interests, and contact information of three referees to: Lulu Shang (shanglu@umich.edu). Review of applications will begin immediately and continue until the positions are filled.
+
 <hr/>
 
 
