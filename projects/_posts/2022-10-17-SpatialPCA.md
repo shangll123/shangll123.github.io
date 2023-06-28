@@ -41,4 +41,5 @@ SpatialPCA is a spatially aware dimension reduction method that aims to infer a 
 <br />
 [Human breast cancer ST dataset](https://lulushang.org/docs/Projects/SpatialPCA/HER2ST)
 <br />
-
+[MOSTA dataset](https://lulushang.org/docs/Projects/SpatialPCA/MOSTA)
+<br />
