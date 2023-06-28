@@ -77,14 +77,14 @@ save(SpatialPCA_result, file = paste0(dataset_name,"_SpatialPCA_result.RData"))
 # > length(unique(raw_obs$region))
 # [1] 17
 
-# we first tried to give 17 clusters in the louvain clustering
-SpatialPCA_louvain = louvain_clustering(17,latent_dat=as.matrix(MOSTA@SpatialPCs), 500) 
+# so we tried to assign 17 clusters in the louvain clustering
+SpatialPCA_louvain = louvain_clustering(clusternum=17,latent_dat=as.matrix(MOSTA@SpatialPCs), knearest=500) 
 # spatial domain cluster label for each location
 SpatialPCA_result$SpatialPCA_louvain_17clusters = SpatialPCA_louvain
 save(SpatialPCA_result, file = paste0(dataset_name,"_SpatialPCA_result.RData"))
 
-
-
+# we found that a larger number of nearest neighbors (the number is 500 here) will tend to result in better connected/continuou regions, and a smaller number will give you more regions but less connected. You may want to tune the parameters to achieve a better visualization.
+s
 # Visualize spatial domains detected by SpatialPCA.
 cbp_spatialpca = c( "#FD7446" ,"#709AE1", "#31A354","#9EDAE5",
  "#DE9ED6" ,"#BCBD22", "#CE6DBD" ,"#DADAEB" ,
