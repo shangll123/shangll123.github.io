@@ -12,6 +12,14 @@ Below are the example analysis codes for the MOSTA data.
 ##### Load package
 ```R
 library(SpatialPCA)
+
+library(reticulate)
+library(Seurat)
+use_python("/net/mulan/home/shanglu/anaconda3/envs/your_environment/bin/python", required=TRUE) # use your python environment here, I need this to read the h5ad file
+sc <- import("scanpy")
+library(peakRAM)
+library(ggplot2)
+
 ```
 ##### Load data
 The MOSTA data we used is available at [Broad Institute’s single-cell repository](https://db.cngb.org/stomics/mosta/download/). We downloaded one example section named E16.5_E1S3_cell_bin_whole_brain.h5ad.
