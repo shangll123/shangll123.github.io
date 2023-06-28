@@ -5,8 +5,7 @@ project: SpatialPCA
 ---
 
 {% include JB/setup %}
-![graphical-title-image](http://oslerinhealth.org/sites/default/files/logo_h40.png)
-{:class="img-responsive"}
+
 
 Package Website: [SpatialPCA Tutorial](https://lulushang.org/SpatialPCA_Tutorial/index.html)
 
