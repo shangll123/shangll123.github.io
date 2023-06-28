@@ -4,7 +4,7 @@ title: SpatialPCA/
 project: SpatialPCA
 ---
 
-{% include JB/setup %}
+
 
 
 Package Website: [SpatialPCA Tutorial](https://lulushang.org/SpatialPCA_Tutorial/index.html)
