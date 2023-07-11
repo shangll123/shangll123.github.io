@@ -11,7 +11,7 @@ tagline: "Lulu Shang"
 lcb: "{"
 ---
 
-This blog is written for junior PhD students. This is my tribute to the fantastic mentorship and kindness I received from my advisor and mentors during my PhD at the University of Michigan. I'll share tips and strategies that smoothed my PhD path, hoping they'll illuminate yours.
+This blog is written for junior PhD students. This is my tribute to the fantastic mentorship and kindness I received from my advisor and mentors during my PhD study at the University of Michigan. I'll share tips and strategies that smoothed my PhD path, hoping they'll illuminate yours.
 
 ## Table of Contents
 
