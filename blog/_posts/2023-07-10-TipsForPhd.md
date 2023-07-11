@@ -23,7 +23,7 @@ This blog is written for junior PhD students. This is my tribute to the fantasti
 
 ## Coding
 - Submit jobs on server and run job in parallel
-    - Good reference: https://sph.umich.edu/biostat/computing-old/cluster/slurm.html
+    - Good reference: [https://sph.umich.edu/biostat/computing-old/cluster/slurm.html](https://sph.umich.edu/biostat/computing-old/cluster/slurm.html)
     - Try not to occupy all nodes at the same time
         - submit jobs and leave several nodes for other people: **`sbatch --exclude=mulan-mc[1-6] myScript.sh`**
         - example myScript.sh:
@@ -69,19 +69,19 @@ print(j)
 - RcppArmadillo (write codes in Rcpp and then you can source the functions in R, this can help make the codes faster)
     - [https://arma.sourceforge.net](https://arma.sourceforge.net/)
 - Conda environment on server (especially useful for python packages)
-    - Here is the tutorial to install it: https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
+    - Here is the tutorial to install it: [https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 - File transfer tools (between the server and your computer)
     - PuTTY (file transfer client for for windows)
     - Transmit (file transfer client for macOS)
     - Fetch (free with educational email)
 - Making figures (journals usually require 300 ppi resolution)
     - In R: ggplot
-        - ggplot2 tutorial: https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
-        - or try some codes I summarized: https://lulushang.org/blog/Figures
+        - ggplot2 tutorial: [https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+        - or try some codes I summarized: [https://lulushang.org/blog/Figures](https://lulushang.org/blog/Figures)
     - Adobe Illustrator (free with umich email. When you make figures with ggplot in R, save as pdf and then drag it into Adobe Illustrator, then you can easily edit the figure legends or colors.)
-        - Useful tutorial video: https://www.youtube.com/watch?v=Ib8UBwu3yGA
+        - Useful tutorial video: [https://www.youtube.com/watch?v=Ib8UBwu3yGA](https://www.youtube.com/watch?v=Ib8UBwu3yGA)
     - Powerpoints/Keynotes
-    - Useful color palettes: https://coolors.co/palettes/trending
+    - Useful color palettes: [https://coolors.co/palettes/trending](https://coolors.co/palettes/trending)
 
 
 
@@ -89,7 +89,7 @@ print(j)
 - Reading papers
     - Google scholar (follow individual researchers and subscribe through email)
     - Researcher (iphone/ipad APP, receive journal updates)
-    - Journal websites (i.e. https://www.nature.com/nature/research-articles)
+    - Journal websites (i.e. [https://www.nature.com/nature/research-articles](https://www.nature.com/nature/research-articles))
     - sci-hub
     - Twitter (need to train it a little bit so that it can recommend related papers for you)
 - Taking notes
@@ -99,7 +99,7 @@ print(j)
 ## Writing
 - Keep track of references: EndNote, Mendeley, or Zotero
 - Books: The Elements of Style; On Writing Well, …
-- “Ten simple rules for structuring papers”: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619
+- “Ten simple rules for structuring papers”: [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 
 ## Meeting
 - These are just things  that I found might be helpful, different people may have different styles when meeting with their advisors
@@ -123,11 +123,11 @@ print(j)
     - github (i.e. [https://pages.github.com](https://pages.github.com/)); google sites; or other tools.
     - analyze your website traffic: [https://analytics.google.com](https://analytics.google.com/)
 - Graduate study advice
-    - “Twenty things I wish I’d known when I started my PhD”: https://www.nature.com/articles/d41586-018-07332-x
-    - Tips to Become a Better Ph.D. Student: https://www.cs.princeton.edu/~ziyangx/graduate-advice/
-    - “The Professor is in” guidance for PhD: https://theprofessorisin.com/pearlsofwisdom/
-    - Matt Might’s tips for grad students: https://matt.might.net/articles/grad-student-resolutions/
-    - Hanna M. Wallach’s How to Be a Successful PhD Student: https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf
-    - Eric Gilbert’s guide for phd students: https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit#
-    - Tips for PhD study: https://github.com/jbhuang0604/awesome-tips
+    - “Twenty things I wish I’d known when I started my PhD”: [https://www.nature.com/articles/d41586-018-07332-x](https://www.nature.com/articles/d41586-018-07332-x)
+    - Tips to Become a Better Ph.D. Student: [https://www.cs.princeton.edu/~ziyangx/graduate-advice/](https://www.cs.princeton.edu/~ziyangx/graduate-advice/)
+    - “The Professor is in” guidance for PhD: [https://theprofessorisin.com/pearlsofwisdom/](https://theprofessorisin.com/pearlsofwisdom/)
+    - Matt Might’s tips for grad students: [https://matt.might.net/articles/grad-student-resolutions/](https://matt.might.net/articles/grad-student-resolutions/)
+    - Hanna M. Wallach’s How to Be a Successful PhD Student: [https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
+    - Eric Gilbert’s guide for phd students: [https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit#](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit#)
+    - Tips for PhD study: [https://github.com/jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
 
