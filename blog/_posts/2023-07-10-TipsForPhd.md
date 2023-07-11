@@ -11,7 +11,7 @@ tagline: "Lulu Shang"
 lcb: "{"
 ---
 
-This blog is written for junior PhD students. This is my tribute to the fantastic mentorship and kindness I received from my advisor and mentors during my PhD study at the University of Michigan. I'll share tips and strategies that smoothed my PhD path, hoping they'll illuminate yours.
+This blog is written for junior PhD students. This is my tribute to the fantastic mentorship I received from my advisor and mentors during my PhD study at the University of Michigan. I'll share tips and strategies that smoothed my PhD path, hoping they'll illuminate yours.
 
 ## Table of Contents
 
@@ -64,8 +64,8 @@ print(j)
 # then you can write your codes from here.
 
 ```
-- Additionally, for each project, I found it useful to organize it, for example, by creating folders named as code, result, err, out, data, figure within each project folder.
-- It is also helpful to collect and write functions to create your own “code library”, and save them into a “utilities_function.R” or “utilities_function.py”, so that you can directly source them whenever needed.
+- Additionally, for each project, I found it useful to organize, for example, by creating folders named as code, result, err, out, data, figure within each project folder.
+- It is also helpful to collect and write functions to create your own “code library”, and save them into “utilities_function.R” or “utilities_function.py”, so that you can directly source them whenever needed.
 - RcppArmadillo (write codes in Rcpp and then you can source the functions in R, this can help make the codes faster)
     - [https://arma.sourceforge.net](https://arma.sourceforge.net/)
 - Conda environment on server (especially useful for python packages)
@@ -82,8 +82,6 @@ print(j)
         - Useful tutorial video: [https://www.youtube.com/watch?v=Ib8UBwu3yGA](https://www.youtube.com/watch?v=Ib8UBwu3yGA)
     - Powerpoints/Keynotes
     - Useful color palettes: [https://coolors.co/palettes/trending](https://coolors.co/palettes/trending)
-
-
 
 ## Reading
 - Reading papers
@@ -102,7 +100,7 @@ print(j)
 - “Ten simple rules for structuring papers”: [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 
 ## Meeting
-- These are just things  that I found might be helpful, different people may have different styles when meeting with their advisors
+- These are just things that might be helpful, different people may have different styles when meeting with their advisors
     - Before the weekly meeting:
         - summarize the topics you want to discuss, list them from most to least important
         - prepare slides or notes, organize the results and put one sentence summary on each page
