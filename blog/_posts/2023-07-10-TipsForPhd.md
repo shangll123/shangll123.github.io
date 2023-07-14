@@ -88,6 +88,7 @@ print(j)
     - Google scholar (follow individual researchers and subscribe through email)
     - Researcher (iphone/ipad APP, receive journal updates)
     - Journal websites (i.e. [https://www.nature.com/nature/research-articles](https://www.nature.com/nature/research-articles))
+    - biorxiv and arxiv
     - Twitter (need to train it a little bit so that it can recommend related papers for you)
 - Taking notes
     - Notion (very flexible, discount with umich email)
