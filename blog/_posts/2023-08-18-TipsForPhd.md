@@ -64,7 +64,7 @@ print(j)
 # then you can write your codes from here.
 
 ```
-- Additionally, for each project, I found it useful to organize, for example, by creating folders named as code, result, err, out, data, figure within each project folder.
+- Additionally, for each project, I found it beneficial to organize by creating folders within each project folder. These folders were named 'code', 'result', 'err', 'out', 'data', and 'figure'.
 - It is also helpful to collect and write functions to create your own “code library”, and save them into “utilities_function.R” or “utilities_function.py”, so that you can directly source them whenever needed.
 - RcppArmadillo (write codes in Rcpp and then you can source the functions in R, this can help make the codes faster)
     - [https://arma.sourceforge.net](https://arma.sourceforge.net/)
@@ -100,7 +100,7 @@ print(j)
 - “Ten simple rules for structuring papers”: [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 
 ## Meeting
-- These are just things that might be helpful, different people may have different styles when meeting with their advisors
+- These are just things that **might** be helpful, different people may have different styles when meeting with their advisors
     - Before the weekly meeting:
         - summarize the topics you want to discuss, list them from most to least important
         - prepare slides or notes, organize the results and put one sentence summary on each page
