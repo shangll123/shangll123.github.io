@@ -29,14 +29,14 @@ description: # Research updates on Bayesian modelling, causal models and individ
 google_analytics: G-D99GXQFH6F
 
 institution:
-  url: https://www.umich.edu
-  name: University of Michigan
+  url: https://www.mdanderson.org
+  name: MD Anderson Cancer Center
 department:
-  url: https://sph.umich.edu/biostat/
+  url: https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/biostatistics.html
   name: Department of Biostatistics
-  address: 1415 Washington Heights 
-  office: 4626 SPH-I (within Suite 4600)
-  city: Ann Arbor, MI 48109
+  address: Pickens Academic Tower, 1400 Pressler St.
+  office: 
+  city: Houston
   logo: /assets/images/umich-sph-logo.png
   map-image: /assets/images/umich-sph-map.png
   map: http://goo.gl/HXM9Pi
