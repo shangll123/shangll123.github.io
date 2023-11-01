@@ -802,8 +802,7 @@ loading matrix and the spatial PCs.</p>
 <div id="detect-spatial-domains" class="section level4">
 <h4>Detect spatial domains</h4>
 <p>SpatialPCA detects spatial domains through clustering on the spatial
-PCs. Here we use louvain’s clustering method, which is faster than
-walktrap method in large sample datasets.</p>
+PCs. Here we use walktrap’s clustering method for datasets with small number of locations.</p>
 <pre class="r"><code>clusterlabel= walktrap_clustering(7, ST@SpatialPCs,round(sqrt(dim(ST@location)[1])))
 clusterlabel_refine=refine_cluster_10x(clusterlabel,ST@location,shape=&quot;square&quot;)</code></pre>
 </div>
