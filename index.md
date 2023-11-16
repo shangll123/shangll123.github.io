@@ -34,7 +34,7 @@ categories:
 
 
 <hr/>
-I will join the Department of Biostatistics at MD Anderson Cancer Center as a tenure-track assistant professor in Sep 2023. I received my PhD degree in the Department of Biostatistics at the University of Michigan in Aug 2023. I have been working with Prof. [Xiang Zhou](http://xzlab.org) on developing statistical methods for genetic and genomic datasets. My recent focus is on developing methods for analyzing spatial transcriptomics. I also work closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study.
+I am a tenure-track assistant professor in the Department of Biostatistics at MD Anderson Cancer Center starting from 2023. I received my PhD degree in the Department of Biostatistics at the University of Michigan in Aug 2023. I have been working with Prof. [Xiang Zhou](http://xzlab.org) on developing statistical methods for genetic and genomic datasets. My recent focus is on developing methods for analyzing spatial transcriptomics. I also work closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study.
 	
 
 
@@ -55,7 +55,7 @@ loci mapping, methylation studies, and gene regulatory network.
 
 **Open positions**:
 
-Applications are invited for a postdoctoral fellow position in my research group. The successful candidate will be working on various research topics in developing statistical methods and computational tools in the field of single cell and spatial transcriptomics. The successful candidate will be offered with competitive benefits and have the opportunity to analyze a variety of large-scale data types. Applicants should have, or be studying for, a PhD in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. A strong computational background is preferred. Applicants should send a CV, a short statement of research interests, and contact information of three referees to: Lulu Shang (shanglu@umich.edu). Review of applications will begin immediately and continue until the position is filled.
+Applications are invited for a postdoctoral fellow position in my research group. The successful candidate will be working on various research topics in developing statistical methods and computational tools in the field of single cell and spatial transcriptomics. The successful candidate will be offered with competitive benefits and have the opportunity to analyze a variety of large-scale data types. Applicants should have, or be studying for, a PhD in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. A strong computational background is preferred. Applicants should send a CV, a short statement of research interests, and contact information of three referees to: Lulu Shang (lshang <at> mdanderson.org). Review of applications will begin immediately and continue until the position is filled.
 
 <hr/>
 
