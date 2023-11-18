@@ -25,7 +25,7 @@ This blog is written for junior PhD students to pass along the fantastic mentors
 - Submit jobs on server and run job in parallel
     - Good reference: [https://sph.umich.edu/biostat/computing-old/cluster/slurm.html](https://sph.umich.edu/biostat/computing-old/cluster/slurm.html)
     - Try not to occupy all nodes at the same time
-        - submit jobs and leave several nodes for other people: **`sbatch --exclude=mulan-mc[1-6] myScript.sh`**
+        - submit jobs and leave several nodes for other people: sbatch --exclude=mulan-mc[1-6] myScript.sh
         - example myScript.sh:
     
 ```sh
