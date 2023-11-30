@@ -30,7 +30,7 @@ categories:
 <hr/>
 
 [[Publications]](/papers/) 
-[[Google Scholar<i class="ai ai-google-scholar"></i>]](https://scholar.google.com/citations?hl=en&user=tkt5ZOYAAAAJ&view_op=list_works&sortby=pubdate) [[GitHub<i class="fa fa-github"></i>]](https://github.com/shangll123) [[Twitter<i class="fa fa-twitter"></i>]](https://twitter.com/shang_lulu).
+[[Google Scholar<i class="ai ai-google-scholar"></i>]](https://scholar.google.com/citations?hl=en&user=tkt5ZOYAAAAJ&view_op=list_works&sortby=pubdate) [[GitHub<i class="fa fa-github"></i>]](https://github.com/shangll123) [[Twitter<i class="fa fa-twitter"></i>]](https://twitter.com/shang_lulu) [[Email<i class="fa fa-twitter"></i>]](lshang@mdanderson.org).
 
 
 <hr/>
@@ -56,6 +56,8 @@ loci mapping, methylation studies, and gene regulatory network.
 **Open positions**:
 
 Applications are invited for a postdoctoral fellow position in my research group. The successful candidate will be working on various research topics in developing statistical methods and computational tools in the field of single cell and spatial transcriptomics. The successful candidate will be offered with competitive benefits and have the opportunity to analyze a variety of large-scale data types. Applicants should have, or be studying for, a PhD in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. A strong computational background is preferred. Applicants should send a CV, a short statement of research interests, and contact information of three referees to: Lulu Shang (lshang@mdanderson.org). Review of applications will begin immediately and continue until the position is filled.
+
+We also have open positions for Research Assistant. The Research Assistant positions can be offered to students in MD Anderson, Rice, and UTHealth. Please feel free to reach out (lshang@mdanderson.org) if you are interested in joining our lab.
 
 <hr/>
 
