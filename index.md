@@ -44,7 +44,7 @@ I am a tenure-track assistant professor in the Department of Biostatistics at MD
 
 **Research Interests**:
 
-My research interest is in developing effective and efficient statistical and computational methods in single cell and spatial transcriptomics to address critical biological problems such as omics data dimension reduction and integration. My specific focus includes: 1). developing in statistical and computational methods for data analysis in single-cell RNA-seq and spatial transcriptomics; 2). Bridging between population-level genome-wide association studies (GWASs) and individual-level single-cell and spatial transcriptomics data to unravel the underlying mechanisms of disease etiology; 3). Integrating multi-omics data with patient outcomes to foster translational research, ultimately connecting molecular insights with clinical applications. 
+My research interest is in developing effective and efficient statistical and computational methods in single cell and spatial transcriptomics to address critical biological problems such as omics data dimension reduction and integration. My specific focus includes: 1). developing statistical and computational methods for data analysis in single-cell RNA-seq and spatial transcriptomics; 2). Bridging between population-level genome-wide association studies (GWASs) and individual-level single-cell and spatial transcriptomics data to unravel the underlying mechanisms of disease etiology; 3). Integrating multi-omics data with patient outcomes to foster translational research, ultimately connecting molecular insights with clinical applications. 
 
 **Keywords**:
 
