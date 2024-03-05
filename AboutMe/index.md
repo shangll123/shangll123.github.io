@@ -22,7 +22,7 @@ I obtained my PhD degree in the Department of Biostatistics at the University of
 <hr/>
 
 *Selected Awards*
-- ProQuest Distinguished Dissertation Awards, Rackham Graduate School, University of Michigan. (2024)
+- ProQuest Distinguished Dissertation Awards, Rackham Graduate School, University of Michigan (2024)
 - Charles J. Epstein Trainee Awards, Predoctoral semifinalist, American Society of Human Genetics (2022)
 - Reviewer’s Choice Poster Award, American Society of Human Genetics (2021)
 - Excellence in Research Award Honorable Mention, Department of Biostatistics, University of Michigan (2020)
