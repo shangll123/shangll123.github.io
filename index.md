@@ -51,12 +51,15 @@ non-parametric models, dimension reduction, data integration, statistical comput
 - *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA sequencing studies, spatial and single cell multi-omics, genome-wide association studies, genome-wide quantitative
 loci mapping, methylation studies, and gene regulatory network.
 
+<hr/>
+
 **Open Positions**:
 
 Applications are invited for a postdoctoral fellow position in my research group. The successful candidates will be working on various research topics in developing statistical methods and computational tools in the field of single cell and spatial transcriptomics. The successful candidates will be offered with competitive benefits and have the opportunity to analyze a variety of large-scale data types. Applicants should have, or be studying for, a PhD in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. A strong computational background is preferred. Applicants should send a CV, a short statement of research interests, and contact information of three referees to: Lulu Shang [lshang@mdanderson.org](lshang@mdanderson.org). Review of applications will begin immediately and continue until the position is filled.
 
 We also have open positions for Research Assistant. The Research Assistant positions can be offered to students in MD Anderson, Rice, and UTHealth. Please feel free to reach out [lshang@mdanderson.org](lshang@mdanderson.org) if you are interested in joining our lab.
 
+<hr/>
 
 **Selected Awards**
 - ProQuest Distinguished Dissertation Awards, Rackham Graduate School, University of Michigan, 2024 (the first recipient in the Department of Biostatistics since 2007)
