@@ -34,13 +34,11 @@ categories:
 
 
 <hr/>
-I am a tenure-track assistant professor in the Department of Biostatistics at MD Anderson Cancer Center. I received my PhD degree in the Department of Biostatistics at the University of Michigan. I have been working with Prof. [Xiang Zhou](http://xzlab.org) on developing statistical methods for genetic and genomic datasets. My recent focus is on developing methods for analyzing spatial transcriptomics. I also work closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study.
-	
 
-
+**About Me**:
+I am a tenure-track assistant professor in the Department of Biostatistics at MD Anderson Cancer Center. I received my PhD degree in the Department of Biostatistics at the University of Michigan. I have been working with Prof. [Xiang Zhou](http://xzlab.org) on developing statistical methods for genetic and genomic datasets. My recent focus is on developing methods for analyzing spatial transcriptomics. I also worked closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study. Previously, I obtained my bachelor’s degree in Biology from the Zhiyuan Honored College at Shanghai Jiao Tong University. 
 	
 <hr/>
-
 
 **Research Interests**:
 
@@ -53,15 +51,19 @@ non-parametric models, dimension reduction, data integration, statistical comput
 - *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA sequencing studies, spatial and single cell multi-omics, genome-wide association studies, genome-wide quantitative
 loci mapping, methylation studies, and gene regulatory network.
 
-**Open positions**:
+**Open Positions**:
 
 Applications are invited for a postdoctoral fellow position in my research group. The successful candidates will be working on various research topics in developing statistical methods and computational tools in the field of single cell and spatial transcriptomics. The successful candidates will be offered with competitive benefits and have the opportunity to analyze a variety of large-scale data types. Applicants should have, or be studying for, a PhD in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. A strong computational background is preferred. Applicants should send a CV, a short statement of research interests, and contact information of three referees to: Lulu Shang [lshang@mdanderson.org](lshang@mdanderson.org). Review of applications will begin immediately and continue until the position is filled.
 
 We also have open positions for Research Assistant. The Research Assistant positions can be offered to students in MD Anderson, Rice, and UTHealth. Please feel free to reach out [lshang@mdanderson.org](lshang@mdanderson.org) if you are interested in joining our lab.
 
-<hr/>
 
-
+**Selected Awards**
+- ProQuest Distinguished Dissertation Awards, Rackham Graduate School, University of Michigan, 2024 (the first recipient in the Department of Biostatistics since 2007)
+- Charles J. Epstein Trainee Awards, Predoctoral semifinalist, American Society of Human Genetics, 2022
+- Reviewer’s Choice Poster Award, American Society of Human Genetics, 2021
+- Excellence in Research Award Honorable Mention, Department of Biostatistics, University of Michigan, 2020
+- Most Interesting Methodological Advancement Poster Award, MIDAS Annual Symposium, University of Michigan, 2019
 
 <br />
 
