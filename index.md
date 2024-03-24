@@ -36,6 +36,7 @@ categories:
 <hr/>
 
 **About Me**:
+
 I am a tenure-track assistant professor in the Department of Biostatistics at MD Anderson Cancer Center. I received my PhD degree in the Department of Biostatistics at the University of Michigan. I have been working with Prof. [Xiang Zhou](http://xzlab.org) on developing statistical methods for genetic and genomic datasets. My recent focus is on developing methods for analyzing spatial transcriptomics. I also worked closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study. Previously, I obtained my bachelor’s degree in Biology from the Zhiyuan Honored College at Shanghai Jiao Tong University. 
 	
 <hr/>
