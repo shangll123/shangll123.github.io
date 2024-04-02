@@ -393,8 +393,8 @@ diag(mat)=0
 
 ##### With SNP-level GWAS summary statistics and LD information from the reference panel, we obtained gene-level heritability estimates using [MQS](https://www.ncbi.nlm.nih.gov/pubmed/29515717). We scaled the gene-level heritability estimates by the number of SNPs in each gene. 
 
-##### The sumstat.meta file could be downloaded from [here](https://drive.google.com/open?id=1GlTwFMafeB2k0bbvOJRD0ObGPcCSgmUj).
-##### The genetable.txt could be downloaded from [here](https://drive.google.com/open?id=1XkyFp8_k1FLoYiaL_PYjYzusYoc8Lwz_).
+##### The sumstat.meta file could be downloaded from gene_effect_size_generate folder [here]([https://drive.google.com/open?id=1GlTwFMafeB2k0bbvOJRD0ObGPcCSgmUj](https://drive.google.com/drive/folders/1nTJn7D7FpuKwZSVbAmORKiJPMxHoJkqO?usp=sharing)).
+##### The genetable.txt could be downloaded from [here]([https://drive.google.com/open?id=1XkyFp8_k1FLoYiaL_PYjYzusYoc8Lwz_](https://drive.google.com/drive/folders/1nTJn7D7FpuKwZSVbAmORKiJPMxHoJkqO?usp=sharing)).
 ```R
 snp=read.csv("~/effectsize/data/sumstat.meta",header=T,sep=" ")
 gene=read.csv("~/effectsize/data/genetable.txt",header=T,sep="\t")
