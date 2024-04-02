@@ -48,7 +48,7 @@ library(CoCoNet)
 
 ## Example: GTEx tissues in GWAS trait BIPSCZ
 
-Load data for GTEx tissue networks and scaled gene level effect sizes, which can be downloaded from this google drive [here](https://drive.google.com/open?id=1XkyFp8_k1FLoYiaL_PYjYzusYoc8Lwz_).
+Load data for GTEx tissue networks and scaled gene level effect sizes, which can be downloaded from this google drive [here](https://drive.google.com/drive/folders/1nTJn7D7FpuKwZSVbAmORKiJPMxHoJkqO?usp=sharing).
 
 ```R
 load("tissue_net.RData")
