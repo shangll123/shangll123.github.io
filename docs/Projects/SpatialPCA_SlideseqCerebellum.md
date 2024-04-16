@@ -14,7 +14,7 @@ Below are the analysis codes for the Slide-seq cerebellum data.
 library(SpatialPCA)
 ```
 ##### Load data
-Slide-seq data is available at [Broad Institute’s single-cell repository](https://singlecell.broadinstitute.org/single_cell/) with ID SCP354. We also saved the raw data that we used in our examples in RData format, which can be downloaded from [here](https://drive.google.com/drive/folders/1mkXV3kQKqwxk42SW4Rb263FgFj2K8HhT?usp=sharing).
+Slide-seq data is available at [Broad Institute’s single-cell repository](https://singlecell.broadinstitute.org/single_cell/) with ID SCP354. We also saved the raw data that we used in our examples in RData format, which can be downloaded from [here](https://drive.google.com/drive/folders/1Ibz5uNsFKHJ4roPpaec5nPL_EBF3-wxY?usp=share_link).
 
 ```R
 load(paste0("slideseq.rds"))
