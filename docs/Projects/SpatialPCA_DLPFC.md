@@ -13,7 +13,7 @@ Below are the analysis codes for the DLPFC data.
 library(SpatialPCA)
 ```
 
-We used sample 151673 in DLPFC data as a main example which contains expression measurement of 33,538 genes on 3,639 spots. All 12 DLPFC samples can be downloaded from their original study [spatialLIBD](http://research.libd.org/spatialLIBD/index.html). We also saved the raw data that we used in our examples in RData format, which can be downloaded from [here](https://drive.google.com/drive/folders/1mkXV3kQKqwxk42SW4Rb263FgFj2K8HhT?usp=sharing).
+We used sample 151673 in DLPFC data as a main example which contains expression measurement of 33,538 genes on 3,639 spots. All 12 DLPFC samples can be downloaded from their original study [spatialLIBD](http://research.libd.org/spatialLIBD/index.html). We also saved the raw data that we used in our examples in RData format, which can be downloaded from [here](https://drive.google.com/drive/folders/1Ibz5uNsFKHJ4roPpaec5nPL_EBF3-wxY?usp=share_link).
 
 
 ##### LIBD data
