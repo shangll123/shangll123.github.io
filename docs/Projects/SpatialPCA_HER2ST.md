@@ -36,7 +36,7 @@ library(SpatialPCA)
 ### Data preprocessing
 Following data processing codes from [https://github.com/almaan/her2st](https://github.com/almaan/her2st):
 
-ST breast tumor data are downloaded from [https://github.com/almaan/her2st](https://github.com/almaan/her2st). We also saved the raw data that we used in our examples in RData format, which can be downloaded from [here](https://drive.google.com/drive/folders/1mkXV3kQKqwxk42SW4Rb263FgFj2K8HhT?usp=sharing).
+ST breast tumor data are downloaded from [https://github.com/almaan/her2st](https://github.com/almaan/her2st). We also saved the raw data that we used in our examples in RData format, which can be downloaded from [here](https://drive.google.com/drive/folders/1Ibz5uNsFKHJ4roPpaec5nPL_EBF3-wxY?usp=share_link).
 
 ```R
 #   library(Seurat)
