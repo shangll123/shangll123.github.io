@@ -4,7 +4,7 @@ title: "team"
 navtab: "team"
 description: "People in the lab"
 group: navigation
-navorder: 4
+navorder: 5
 ---
 {% include JB/setup %}
 
