@@ -31,7 +31,7 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - 2024 Summer: **Amar Kanakamedala**, Undergrad, Computer Science, Rice University.
   
-- 2024 Summer: **Eric Zhang**, Bioscience & Statistics, Rice University. 
+- 2024 Summer: **Eric Zhang**, Undergrad, Bioscience & Statistics, Rice University. 
 
 
 
