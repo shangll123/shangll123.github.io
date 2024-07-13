@@ -21,8 +21,6 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Wenzheng Li**, Master Student, Electrical and Computer Engineering (Data Science track), Rice University.
 
-- **Yihan Hong**, Master Student, Electrical and Computer Engineering (Data Science track), Rice University. 
-
 <div class="bigspacer"></div>
 
 <div class="smalltitle text-left">Undergrad Students: </div>
