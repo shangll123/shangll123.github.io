@@ -633,7 +633,8 @@ is saved in <code>data_use$cluster</code> in the below example.</p>
 }
 
 # Now we can create the cell type matrix, just like the cell type proportion matrix we had in the spot level data, but now for single cell level data, the values are binary indicators rather than 0-1 proportion values.
-data_use$celltype = make_celltype_mat(data_use$cluster)</code></pre>
+data_use$celltype = make_celltype_mat(data_use$cluster)
+rownames(data_use$celltype) = colnames(data_use$count_use)</code></pre>
 </div>
 <div id="create-celina-object" class="section level2">
 <h2>Create Celina object</h2>
