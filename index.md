@@ -25,6 +25,7 @@ categories:
 
 
 
+<img src="/assets/themes/lab/images/logo/lulu.jpeg" alt="photo" width="300" class="center">
 
 <br clear="left"/>
 <hr/>
