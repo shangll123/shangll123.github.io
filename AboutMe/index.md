@@ -11,7 +11,7 @@ navorder: 1
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<img src="/assets/themes/lab/images/logo/profile.jpeg" alt="photo" width="300" class="center">
+
 
 
 <br clear="left"/>
