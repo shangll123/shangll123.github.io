@@ -31,7 +31,7 @@ categories:
 <hr/>
 
 [[Publications]](/papers/) 
-[[Google Scholar<i class="ai ai-google-scholar"></i>]](https://scholar.google.com/citations?hl=en&user=tkt5ZOYAAAAJ&view_op=list_works&sortby=pubdate) [[GitHub<i class="fa fa-github"></i>]](https://github.com/shangll123) [[Twitter<i class="fa fa-twitter"></i>]](https://twitter.com/shang_lulu).
+[[Google Scholar<i class="ai ai-google-scholar"></i>]](https://scholar.google.com/citations?user=7FEgLPkAAAAJ&hl=en&authuser=1) [[GitHub<i class="fa fa-github"></i>]](https://github.com/shangll123) [[Twitter<i class="fa fa-twitter"></i>]](https://twitter.com/shang_lulu).
 
 
 <hr/>
