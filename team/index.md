@@ -16,7 +16,7 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 
 - **Yutong Pan**, PhD Student, Biostatistics, The University of Texas Health Science Center at Houston.
-- 
+  
 - **Jixuan Ni**, Master Student, Computer Science, Rice University. 
 
 - **Wenzheng Li**, Master Student, Electrical and Computer Engineering (Data Science track), Rice University.
