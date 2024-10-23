@@ -23,6 +23,9 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Arush Adabala**, Undergrad Student, Computer Science, Rice University. 
 
+- **Vismay Ravikumar**, Undergrad Student, Computer Science, Rice University.
+
+- **Zihan Yang**, Undergrad Student, Biosciences, Rice University. 
 <div class="bigspacer"></div>
 
 <div class="smalltitle text-left">Open Positions: </div>
