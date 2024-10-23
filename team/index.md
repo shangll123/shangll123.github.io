@@ -14,19 +14,14 @@ navorder: 5
 
 I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor. <br>
 
-<div class="smalltitle text-left">Master Students: </div>
-<div class="bigspacer"></div>
 
+- **Yutong Pan**, PhD Student, Biostatistics, The University of Texas Health Science Center at Houston.
+- 
 - **Jixuan Ni**, Master Student, Computer Science, Rice University. 
 
 - **Wenzheng Li**, Master Student, Electrical and Computer Engineering (Data Science track), Rice University.
 
-<div class="bigspacer"></div>
-
-<div class="smalltitle text-left">Undergrad Students: </div>
-<div class="bigspacer"></div>
-
-- **Arush Adabala**, Undergrad, Computer Science, Rice University. 
+- **Arush Adabala**, Undergrad Student, Computer Science, Rice University. 
 
 
 Alumni:
