@@ -25,10 +25,13 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 - **Zihan Yang**, Undergrad Student, Biosciences, Rice University. 
 <div class="bigspacer"></div>
 
-Lab Alumni:
-Haoye Yang, Research Intern, 2023 (Current PhD student at the University of Chicago)
-Jixuan Ni, Master Student at Rice University, 2024
+Lab Alumni:<br>
 
+- **Haoye Yang**, Research Intern, 2023 (Current PhD student at the University of Chicago)
+- 
+- **Jixuan Ni**, Master Student at Rice University, 2024
+
+<div class="bigspacer"></div>
 
 <div class="smalltitle text-left">Open Positions: </div>
 <div class="bigspacer"></div>
