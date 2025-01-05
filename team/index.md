@@ -14,10 +14,7 @@ navorder: 5
 
 I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor. <br>
 
-
 - **Yutong Pan**, PhD Student, Biostatistics, The University of Texas Health Science Center at Houston.
-  
-- **Jixuan Ni**, Master Student, Computer Science, Rice University. 
 
 - **Wenzheng Li**, Master Student, Electrical and Computer Engineering (Data Science track), Rice University.
 
@@ -27,6 +24,11 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Zihan Yang**, Undergrad Student, Biosciences, Rice University. 
 <div class="bigspacer"></div>
+
+Lab Alumni:
+Haoye Yang, Research Intern, 2023 (Current PhD student at the University of Chicago)
+Jixuan Ni, Master Student at Rice University, 2024
+
 
 <div class="smalltitle text-left">Open Positions: </div>
 <div class="bigspacer"></div>
