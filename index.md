@@ -44,14 +44,13 @@ I am a tenure-track assistant professor in the Department of Biostatistics at MD
 
 **Research Interests**:
 
-My research interest is in developing effective and efficient statistical and computational methods in single cell and spatial transcriptomics to address critical biological problems such as omics data dimension reduction and integration. My specific focus includes: 1). developing statistical and computational methods for data analysis in single-cell RNA-seq and spatial transcriptomics; 2). Bridging between population-level genome-wide association studies (GWASs) and individual-level single-cell and spatial transcriptomics data to unravel the underlying mechanisms of disease etiology; 3). Integrating multi-omics data with patient outcomes to foster translational research, ultimately connecting molecular insights with clinical applications. 
+My research interest is in developing effective and efficient statistical and machine learning methods in single cell and spatial transcriptomics to address critical biological problems such as omics data dimension reduction and integration. My specific focus includes: 1). developing statistical and computational methods for data analysis in single-cell RNA-seq and spatial transcriptomics; 2). Bridging between population-level genome-wide association studies (GWASs) and individual-level single-cell and spatial transcriptomics data to unravel the underlying mechanisms of disease etiology; 3). Integrating multi-omics data with patient outcomes to foster translational research, ultimately connecting molecular insights with clinical applications. 
 
 **Keywords**:
 
 - *Statistical Methods*: High-dimensional data analysis, mixed effects models, longitudinal data analysis, spatial statistics,
-non-parametric models, dimension reduction, data integration, statistical computing, network analysis and machine learning.
-- *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA sequencing studies, spatial and single cell multi-omics, genome-wide association studies, genome-wide quantitative
-loci mapping, methylation studies, and gene regulatory network.
+non-parametric models, dimension reduction, data integration, statistical computing, network analysis, and machine learning (including deep learning).
+- *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA sequencing studies, spatial and single cell multi-omics, genome-wide association studies, genome-wide quantitative loci mapping, methylation studies, and gene regulatory network.
 
 <hr/>
 
