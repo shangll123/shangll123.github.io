@@ -62,9 +62,14 @@ We also have open positions for Research Assistant. The Research Assistant posit
 
 <hr/>
 
+**Funding**
+- Institutional Research Grant, $75k direct cost, 2/1/2025-1/31/2026 (Awarded to top 20 proposals among all faculty applicants at MD Anderson)
+
+<hr/>
+
 **Selected Awards**
 - IMS New Researcher Travel Grant Award, Institute of Mathematical Statistics, 2024
-- ProQuest Distinguished Dissertation Awards, Rackham Graduate School, University of Michigan, 2024 (the first recipient in the Department of Biostatistics since 2007)
+- ProQuest Distinguished Dissertation Awards, Rackham Graduate School, University of Michigan, 2024 (Awarded to top 10 Ph.D. dissertations among 800+ applicants,the first recipient in the Department of Biostatistics since 2007)
 - Charles J. Epstein Trainee Awards, Predoctoral semifinalist, American Society of Human Genetics, 2022
 - Reviewer’s Choice Poster Award, American Society of Human Genetics, 2021
 - Excellence in Research Award Honorable Mention, Department of Biostatistics, University of Michigan, 2020
