@@ -18,8 +18,6 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Wenzheng Li**, Master Student, Electrical and Computer Engineering (Data Science track), Rice University.
 
-- **Arush Adabala**, Undergrad Student, Computer Science, Rice University. 
-
 - **Vismay Ravikumar**, Undergrad Student, Computer Science, Rice University.
 
 - **Zihan Yang**, Undergrad Student, Biosciences, Rice University. 
@@ -31,6 +29,8 @@ Lab Alumni:<br>
   
 - **Jixuan Ni**, Master Student at Rice University, 2024
 
+- **Arush Adabala**, Undergrad Student, Computer Science, Rice University.
+  
 <div class="bigspacer"></div>
 
 <div class="smalltitle text-left">Open Positions: </div>
