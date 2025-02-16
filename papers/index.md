@@ -16,12 +16,16 @@ navorder: 2
 
 **Method & analysis papers**
 
-1. Shang, Lulu, Peijun Wu, and Xiang Zhou. "Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics." Nature Communications 16, no. 1 (2025): 1059.<br>
+1. Shang, Lulu*, Peijun Wu*, and Xiang Zhou. "Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics." Nature Communications 16, no. 1 (2025): 1059.<br> 
 2. Shang, Lulu, and Xiang Zhou. "Spatially aware dimension reduction for spatial transcriptomics." Nature communications 13, no. 1 (2022): 7203.<br>
-3. Zhu, Jiaqiang, Lulu Shang, and Xiang Zhou. "SRTsim: spatial pattern preserving simulations for spatially resolved transcriptomics." Genome biology 24, no. 1 (2023): 39.<br>
+3. Zhu, Jiaqiang*, Lulu Shang*, and Xiang Zhou. "SRTsim: spatial pattern preserving simulations for spatially resolved transcriptomics." Genome biology 24, no. 1 (2023): 39.<br>
 4. Shang, Lulu, Jennifer A. Smith, and Xiang Zhou. "Leveraging gene co-expression patterns to infer trait-relevant tissues in genome-wide association studies." PLoS genetics 16, no. 4 (2020): e1008734.<br>
-5. Shang, Lulu, Jennifer A. Smith, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia, and Xiang Zhou. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.<br>
-6. Shang, L., W. Zhao, Y. Z. Wang, Z. Li, J. J. Choi, M. Kho, T. H. Mosley, S. L. R. Kardia, J. A. Smith, and X. Zhou. meQTL Mapping in the GENOA Study Reveals Genetic Determinants of DNA Methylation in African Americans. Nat. Commun. 14, 2711. 2023.<br>
+5. Shang, Lulu, Jennifer A. Smith, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia#, and Xiang Zhou#. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.<br>
+6. Shang, L., W. Zhao, Y. Z. Wang, Z. Li, J. J. Choi, M. Kho, T. H. Mosley, S. L. R. Kardia, J. A. Smith#, and X. Zhou#. meQTL Mapping in the GENOA Study Reveals Genetic Determinants of DNA Methylation in African Americans. Nat. Commun. 14, 2711. 2023.<br>
+
+* co-first authors
+  
+# co-corresponding authors
 
 <div class="bigspacer"></div>
 
