@@ -14,7 +14,7 @@ navorder: 2
 
 <div class="bigspacer"></div>
 
-** Method & analysis papers: **
+**Method & analysis papers**
 
 1. Shang, Lulu, Peijun Wu, and Xiang Zhou. "Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics." Nature Communications 16, no. 1 (2025): 1059.<br>
 2. Shang, Lulu, and Xiang Zhou. "Spatially aware dimension reduction for spatial transcriptomics." Nature communications 13, no. 1 (2022): 7203.<br>
@@ -24,7 +24,8 @@ navorder: 2
 6. Shang, L., W. Zhao, Y. Z. Wang, Z. Li, J. J. Choi, M. Kho, T. H. Mosley, S. L. R. Kardia, J. A. Smith, and X. Zhou. meQTL Mapping in the GENOA Study Reveals Genetic Determinants of DNA Methylation in African Americans. Nat. Commun. 14, 2711. 2023.<br>
 
 <div class="bigspacer"></div>
-** Collaborative papers: ** 
+
+**Collaborative papers** 
 
 7. Ding, Jiayuan, Lingxiao Li, Qiaolin Lu, Julian Venegas, Yixin Wang, Lidan Wu, Wei Jin et al. "Spatialctd: A large-scale tumor microenvironment spatial transcriptomic dataset to evaluate cell type deconvolution for immuno-oncology." Journal of Computational Biology 31, no. 9 (2024): 871-885.<br>
 8. Chaar, Dima L., Zheng Li, Lulu Shang, Scott M. Ratliff, Thomas H. Mosley, Sharon LR Kardia, Wei Zhao, X. Zhou, and J. A. Smith. "Multi-ancestry transcriptome-wide association studies of cognitive function, white matter hyperintensity, and Alzheimer’s disease." medRxiv (2024): 2024-01.<br>
