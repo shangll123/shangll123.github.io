@@ -23,9 +23,7 @@ navorder: 2
 5. Shang, Lulu, Jennifer A. Smith, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia†, and Xiang Zhou†. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.<br>
 6. Shang, L., W. Zhao, Y. Z. Wang, Z. Li, J. J. Choi, M. Kho, T. H. Mosley, S. L. R. Kardia, J. A. Smith†, and X. Zhou†. meQTL Mapping in the GENOA Study Reveals Genetic Determinants of DNA Methylation in African Americans. Nat. Commun. 14, 2711. 2023.<br>
 
-* co-first authors
-  
-† co-corresponding authors
+* co-first authors, † co-corresponding authors
 
 <div class="bigspacer"></div>
 
