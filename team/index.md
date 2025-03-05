@@ -28,7 +28,7 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 Lab Alumni:<br>
 
-- **Haoye Yang**, Research Intern ((09/2023 - 07/2024, Current PhD student at the University of Chicago)
+- **Haoye Yang**, Research Intern (09/2023 - 07/2024, Current PhD student at the University of Chicago)
   
 - **Jixuan Ni**, Master Student at Rice University (04/2024 - 12/2024)
 
