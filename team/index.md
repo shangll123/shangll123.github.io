@@ -14,7 +14,7 @@ navorder: 5
 
 I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor. <br>
 
-- **Lihe Liu**, Postdoc (co-advise with Yinyin Yuan, 03/2025 - Present), The MD Anderson Cancer Center.
+- **Lihe Liu**, Postdoc (03/2025 - Present, co-advise with Yinyin Yuan), The MD Anderson Cancer Center.
 
 - **Yutong Pan**, PhD Student (10/2024 - Present), Biostatistics, The University of Texas Health Science Center at Houston.
 
@@ -28,11 +28,11 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 Lab Alumni:<br>
 
-- **Haoye Yang**, Research Intern, 2023 (Current PhD student at the University of Chicago)
+- **Haoye Yang**, Research Intern ((09/2023 - 07/2024, Current PhD student at the University of Chicago)
   
-- **Jixuan Ni**, Master Student at Rice University, 2024
+- **Jixuan Ni**, Master Student at Rice University (04/2024 - 12/2024)
 
-- **Arush Adabala**, Undergrad Student, Computer Science, Rice University.
+- **Arush Adabala**, Undergrad Student, Computer Science, Rice University (04/2024 - 10/2024)
   
 <div class="bigspacer"></div>
 
