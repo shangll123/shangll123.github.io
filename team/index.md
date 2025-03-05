@@ -14,15 +14,15 @@ navorder: 5
 
 I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor. <br>
 
-- **Lihe Liu**, Postdoc (co-advise with Yinyin Yuan), The MD Anderson Cancer Center.
+- **Lihe Liu**, Postdoc (co-advise with Yinyin Yuan, 03/2025 - Present), The MD Anderson Cancer Center.
 
-- **Yutong Pan**, PhD Student, Biostatistics, The University of Texas Health Science Center at Houston.
+- **Yutong Pan**, PhD Student (10/2024 - Present), Biostatistics, The University of Texas Health Science Center at Houston.
 
-- **Wenzheng Li**, Master Student, Electrical and Computer Engineering (Data Science track), Rice University.
+- **Wenzheng Li**, Master Student (04/2024 - Present), Electrical and Computer Engineering (Data Science track), Rice University.
 
-- **Vismay Ravikumar**, Undergrad Student, Computer Science, Rice University.
+- **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
 
-- **Zihan Yang**, Undergrad Student, Biosciences, Rice University.
+- **Zihan Yang**, Undergrad Student (09/2024 - Present), Biosciences, Rice University.
 
 <div class="bigspacer"></div>
 
