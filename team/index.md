@@ -14,7 +14,7 @@ navorder: 5
 
 I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor. <br>
 
-- **Lihe Liu**, Postdoc (03/2025 - Present, co-advise with Yinyin Yuan), The MD Anderson Cancer Center.
+- **Lihe Liu**, Postdoc (03/2025 - Present, co-advise with Dr. Yinyin Yuan), The MD Anderson Cancer Center.
 
 - **Yutong Pan**, PhD Student (10/2024 - Present), Biostatistics, The University of Texas Health Science Center at Houston.
 
