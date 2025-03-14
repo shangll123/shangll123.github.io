@@ -18,6 +18,8 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Yutong Pan**, PhD Student (10/2024 - Present), Biostatistics, The University of Texas Health Science Center at Houston.
 
+- **Yufan Wu**, PhD rotation Student (03/2025 - Present), GSBS PhD program, The MD Anderson Cancer Center.
+
 - **Wenzheng Li**, Master Student (04/2024 - Present), Electrical and Computer Engineering (Data Science track), Rice University.
 
 - **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
