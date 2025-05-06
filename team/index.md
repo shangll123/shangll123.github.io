@@ -20,7 +20,7 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Yufan Wu**, PhD Student (03/2025 - Present, co-advise with Dr. Ying Yuan), GSBS PhD program, The MD Anderson Cancer Center.
 
-- **Wenzheng Li**, Master Student (04/2024 - Present, co-advise with Dr. Yu Shen), Electrical and Computer Engineering (Data Science track), Rice University.
+- **Wenzheng Li**, incoming PhD Student (04/2024 - Present, co-advise with Dr. Yu Shen), GSBS PhD program, The MD Anderson Cancer Center.
 
 - **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
 
