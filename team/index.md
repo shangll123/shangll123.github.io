@@ -45,3 +45,11 @@ Applications are invited for postdoctoral fellow positions in my research group.
 
 We also have open positions for Research Assistant. The Research Assistant positions can be offered to students in MD Anderson, Rice,  UTHealth, and more. Please feel free to reach out me (lshang@mdanderson.org) if you are interested in joining our lab.
 
+
+<br clear="left"/>
+<hr/>
+<img src="/assets/themes/lab/images/logo/group.jpeg" alt="photo" width="600" class="center">
+
+
+
+
