@@ -633,6 +633,10 @@ if(length(remove_genes)&gt;0){
 <h2>Create Celina object</h2>
 <pre class="r"><code>library(CELINA)
 
+# make sure input matrix gene_expression_mat has n columns (n is location number), celltype_mat has n columns, and location has n rows.
+data_expr_in = as.matrix(data_expr_in)
+data_expr_in = data_expr_in[,match(rownames(data_use$location_coord), colnames(data_expr_in))]
+
 Obj = Create_Celina_Object(celltype_mat = t(data_use$celltype_proportion), 
                               gene_expression_mat = as.matrix(data_expr_in), 
                               location = as.matrix(data_use$location_coord),
