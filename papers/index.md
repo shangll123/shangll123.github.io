@@ -45,7 +45,7 @@ navorder: 2
 - Wen, Jia, Munan Xie, Bryce Rowland, Jonathan D. Rosen, Quan Sun, Jiawen Chen, Amanda L. Tapia, ..., **Lulu Shang**, ... et al. "Transcriptome-wide association study of blood cell traits in african ancestry and hispanic/latino populations." Genes 12, no. 7 (2021): 1049.<br>
 
 ### 2020<br>
-- **Shang, Lulu**, Jennifer A. Smith, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia†, and Xiang Zhou†. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.<br>
+- **Shang, Lulu**\*, Jennifer A. Smith\*, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia†, and Xiang Zhou†. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.<br>
 - **Shang, Lulu**, Jennifer A. Smith, and Xiang Zhou. "Leveraging gene co-expression patterns to infer trait-relevant tissues in genome-wide association studies." PLoS genetics 16, no. 4 (2020): e1008734.<br>
 - Li, Binze, Julian Dong, Jiaqi Yu, Yuqi Fan, **Lulu Shang**, Xiang Zhou, and Yongsheng Bai. "Pinpointing miRNA and genes enrichment over trait-relevant tissue network in Genome-Wide Association Studies." BMC medical genomics 13 (2020): 1-13.<br>
 - Kho, Minjung, Wei Zhao, Scott M. Ratliff, Farah Ammous, Thomas H. Mosley, **Lulu Shang**, Sharon LR Kardia, Xiang Zhou, and Jennifer A. Smith. "Epigenetic loci for blood pressure are associated with hypertensive target organ damage in older African Americans from the genetic epidemiology network of Arteriopathy (GENOA) study." BMC medical genomics 13 (2020): 1-10.<br>
