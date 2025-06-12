@@ -32,7 +32,6 @@ navorder: 2
 - Xi, Ellie, Tutu Hu, Chloe Yu, **Lulu Shang**, Xiang Zhou, and Yongsheng Bai. "Identification of Key Biomarkers Associated with Ductal Breast Cancer in Spatial Transcriptomics Data." In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 3840-3847. IEEE, 2023.<br>
 - Wen, Hongzhi, Wenzhuo Tang, Wei Jin, Jiayuan Ding, Renming Liu, Xinnan Dai, Feng Shi, **Lulu Shang**, Hui Liu, and Yuying Xie. "Single cells are spatial tokens: Transformers for spatial transcriptomic data imputation." arXiv preprint arXiv:2302.03038 (2023).<br>
 
-
 ### 2022<br>
 - **Shang, Lulu**, and Xiang Zhou. "Spatially aware dimension reduction for spatial transcriptomics." Nature communications 13, no. 1 (2022): 7203.<br>
 - Wang, Yi Zhe, Wei Zhao, Farah Ammous, Yanyi Song, Jiacong Du, **Lulu Shang**, Scott M. Ratliff et al. "DNA methylation mediates the association between individual and neighborhood social disadvantage and cardiovascular risk factors." Frontiers in cardiovascular medicine 9 (2022): 848768.<br>
@@ -41,10 +40,9 @@ navorder: 2
 - Anderson, Ana C., Itai Yanai, Lucy R. Yates, Linghua Wang, Alexander Swarbrick, Peter Sorger, ..., **Lulu Shang**, Xiang Zhou, Sandro Santagata et al. "Spatial transcriptomics." Cancer cell 40, no. 9 (2022): 895-900.
 
 ### 2021<br>
--. Zhu, Huanhuan \*, **Lulu Shang** \*, and Xiang Zhou. "A review of statistical methods for identifying trait-relevant tissues and cell types." Frontiers in Genetics 11 (2021): 587887.<br>
+- Zhu, Huanhuan \*, **Lulu Shang** \*, and Xiang Zhou. "A review of statistical methods for identifying trait-relevant tissues and cell types." Frontiers in Genetics 11 (2021): 587887.<br>
 - Ammous, Farah, Wei Zhao, Scott M. Ratliff, Minjung Kho, **Lulu Shang**, Alana C. Jones, Ninad S. Chaudhary et al. "Epigenome-wide association study identifies DNA methylation sites associated with target organ damage in older African Americans." Epigenetics 16, no. 8 (2021): 862-875.<br>
 - Wen, Jia, Munan Xie, Bryce Rowland, Jonathan D. Rosen, Quan Sun, Jiawen Chen, Amanda L. Tapia, ..., **Lulu Shang**, ... et al. "Transcriptome-wide association study of blood cell traits in african ancestry and hispanic/latino populations." Genes 12, no. 7 (2021): 1049.<br>
-
 
 ### 2020<br>
 - **Shang, Lulu**, Jennifer A. Smith, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon LR Kardia†, and Xiang Zhou†. "Genetic architecture of gene expression in European and African Americans: an eQTL mapping study in GENOA." The American Journal of Human Genetics 106, no. 4 (2020): 496-512.<br>
