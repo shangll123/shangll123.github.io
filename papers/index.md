@@ -21,9 +21,10 @@ navorder: 2
 - Chaar, Dima L., Zheng Li, **Lulu Shang**, Scott M. Ratliff, Thomas H. Mosley, Sharon LR Kardia, Wei Zhao, Xiang Zhou, and Jennifer A. Smith. "Multi-ancestry transcriptome-wide association studies of cognitive function, white matter hyperintensity, and Alzheimer’s disease." International journal of molecular sciences 26, no. 6 (2025): 2443.
 - Luo, Lan, **Lulu shang**, Jaclyn M. Goodrich, Karen E. Peterson, and Peter XK Song. "Bridging the gap: Enhancing the generalizability of epigenetic clocks through transfer learning." medRxiv (2025): 2025-02. (preprint)
 - Li, Ruoxing, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher Flowers, **Lulu shang**†, and Ziyi Li†. "Accurate Imputation of Pathway-specific Gene Expression in Spatial Transcriptomics with PASTA." (2025). (preprint)
+- Sun, Shiquan, Chaoyong Yang,  **Lulu shang**, and Rong Fan. "Unraveling Tissue Complexity Through Single‐Cell and Spatial Transcriptomics." Small Methods (2025): 2500710. (editorial)
 
+- 
 ### 2024<br>
-- Chaar, Dima L., Zheng Li, **Lulu Shang**, Scott M. Ratliff, Thomas H. Mosley, Sharon LR Kardia, Wei Zhao, X. Zhou, and J. A. Smith. "Multi-ancestry transcriptome-wide association studies of cognitive function, white matter hyperintensity, and Alzheimer’s disease." medRxiv (2024): 2024-01.<br>
 - Ding, Jiayuan, Lingxiao Li, Qiaolin Lu, Julian Venegas, Yixin Wang, Lidan Wu, Wei Jin, ..., **Lulu Shang**, ... et al. "Spatialctd: A large-scale tumor microenvironment spatial transcriptomic dataset to evaluate cell type deconvolution for immuno-oncology." Journal of Computational Biology 31, no. 9 (2024): 871-885.<br>
 
 ### 2023<br>
