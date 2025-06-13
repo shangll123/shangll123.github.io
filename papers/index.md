@@ -23,7 +23,7 @@ navorder: 2
 - Li, Ruoxing, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher Flowers, **Lulu shang**†, and Ziyi Li†. "Accurate Imputation of Pathway-specific Gene Expression in Spatial Transcriptomics with PASTA." (2025). (preprint)
 - Sun, Shiquan, Chaoyong Yang,  **Lulu shang**, and Rong Fan. "Unraveling Tissue Complexity Through Single‐Cell and Spatial Transcriptomics." Small Methods (2025): 2500710. (editorial)
 
-- 
+  
 ### 2024<br>
 - Ding, Jiayuan, Lingxiao Li, Qiaolin Lu, Julian Venegas, Yixin Wang, Lidan Wu, Wei Jin, ..., **Lulu Shang**, ... et al. "Spatialctd: A large-scale tumor microenvironment spatial transcriptomic dataset to evaluate cell type deconvolution for immuno-oncology." Journal of Computational Biology 31, no. 9 (2024): 871-885.<br>
 
