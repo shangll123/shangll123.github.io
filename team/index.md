@@ -16,7 +16,7 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Lihe Liu**, Postdoc (03/2025 - Present, co-advise with Dr. Yinyin Yuan), The MD Anderson Cancer Center.
 
-- **Yutong Pan**, PhD Student (10/2024 - Present), Biostatistics, The University of Texas Health Science Center at Houston.
+- **Yutong Pan**, PhD Student (10/2024 - Present, co-advise with Dr. Emily Keung), Biostatistics, The University of Texas Health Science Center at Houston.
 
 - **Yufan Wu**, PhD Student (03/2025 - Present, co-advise with Dr. Ying Yuan), GSBS PhD program, The MD Anderson Cancer Center.
 
