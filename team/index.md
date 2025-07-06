@@ -15,18 +15,19 @@ navorder: 5
 I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor in biostatistics. <br>
 
 - **Lihe Liu**, Postdoc (03/2025 - Present, co-advise with Dr. Yinyin Yuan), The MD Anderson Cancer Center.
+- 
+- **Yufan Wu**, PhD Student (03/2025 - Present, co-advise with Dr. Ying Yuan), GSBS PhD program, The MD Anderson Cancer Center.
 
 - **Yutong Pan**, PhD Student (10/2024 - Present, co-advise with Dr. Emily Keung), Biostatistics, The University of Texas Health Science Center at Houston.
 
-- **Yufan Wu**, PhD Student (03/2025 - Present, co-advise with Dr. Ying Yuan), GSBS PhD program, The MD Anderson Cancer Center.
+- **Kyung Serk Cho**, PhD Student (09/2024 – Present, co-advise with Dr. Linghua Wang), Biostatistics, The University of Texas Health Science Center at Houston.
 
-- **Kyung Serk Cho**, PhD Student (9/2024 – Present, co-advise with Dr. Linghua Wang), Biostatistics, The University of Texas Health Science Center at Houston.
+- **Zihan Yang**, Undergrad Student (09/2024 - Present), Biosciences, Rice University.
+  
+- **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
 
 - **Wenzheng Li**, incoming PhD Student (04/2024 - Present, co-advise with Dr. Yu Shen), GSBS PhD program, The MD Anderson Cancer Center.
 
-- **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
-
-- **Zihan Yang**, Undergrad Student (09/2024 - Present), Biosciences, Rice University.
 
 <div class="bigspacer"></div>
 
