@@ -12,7 +12,7 @@ navorder: 5
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <br clear="left"/>
 
-I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor. <br>
+I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor in biostatistics. <br>
 
 - **Lihe Liu**, Postdoc (03/2025 - Present, co-advise with Dr. Yinyin Yuan), The MD Anderson Cancer Center.
 
