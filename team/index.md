@@ -15,7 +15,7 @@ navorder: 5
 I'm extremely fortunate to work with several amazing students to whom I serve as primary advisor in biostatistics. <br>
 
 - **Lihe Liu**, Postdoc (03/2025 - Present, co-advise with Dr. Yinyin Yuan), The MD Anderson Cancer Center.
-- 
+
 - **Yufan Wu**, PhD Student (03/2025 - Present, co-advise with Dr. Ying Yuan), GSBS PhD program, The MD Anderson Cancer Center.
 
 - **Yutong Pan**, PhD Student (10/2024 - Present, co-advise with Dr. Emily Keung), Biostatistics, The University of Texas Health Science Center at Houston.
@@ -32,12 +32,12 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 <div class="bigspacer"></div>
 
 Lab Alumni:<br>
-
-- **Haoye Yang**, Research Intern (09/2023 - 07/2024, Current PhD student at the University of Chicago)
   
 - **Jixuan Ni**, Master Student at Rice University (04/2024 - 12/2024)
 
 - **Arush Adabala**, Undergrad Student, Computer Science, Rice University (04/2024 - 10/2024)
+
+- **Haoye Yang**, Research Intern (09/2023 - 07/2024, Current PhD student at the University of Chicago)
   
 <div class="bigspacer"></div>
 
