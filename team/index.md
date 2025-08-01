@@ -22,6 +22,8 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Kyung Serk Cho**, PhD Student (09/2024 – Present, co-advise with Dr. Linghua Wang), Biostatistics, The University of Texas Health Science Center at Houston.
 
+- **Yuchen Zhang** PhD Student (09/2024 - Present), Biostatistics, The University of Texas Health Science Center at Houston.
+
 - **Zihan Yang**, Undergrad Student (09/2024 - Present), Biosciences, Rice University.
   
 - **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
