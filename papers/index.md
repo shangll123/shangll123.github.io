@@ -22,6 +22,7 @@ navorder: 2
 - Luo, Lan, **Lulu shang**, Jaclyn M. Goodrich, Karen E. Peterson, and Peter XK Song. "Bridging the gap: Enhancing the generalizability of epigenetic clocks through transfer learning." medRxiv (2025): 2025-02. (preprint)
 - Li, Ruoxing, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher Flowers, **Lulu shang**†, and Ziyi Li†. "Accurate Imputation of Pathway-specific Gene Expression in Spatial Transcriptomics with PASTA." (2025). (preprint)
 - Sun, Shiquan, Chaoyong Yang,  **Lulu shang**, and Rong Fan. "Unraveling Tissue Complexity Through Single‐Cell and Spatial Transcriptomics." Small Methods (2025): 2500710. (editorial)
+- Wenjing Ma, Siyu Hou, **Lulu shang**, Jiaying Lu, and Xiang Zhou (2025). Optimal transport modeling uncovers spatial domain dynamics in spatiotemporal transcriptomics studies. (submitted)
 
   
 ### 2024<br>
