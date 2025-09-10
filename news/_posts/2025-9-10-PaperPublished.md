@@ -8,5 +8,4 @@ category: news
 tags: [award]
 ---
 
-Yutong will present both a poster and an oral presentation at the upcoming 2025 CTOS Annual Meeting!
 Congratulations, Yutong!
