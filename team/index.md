@@ -46,10 +46,13 @@ Lab Alumni:<br>
 <div class="smalltitle text-left">Open Positions: </div>
 <div class="bigspacer"></div>
 
+<!--- just ---> 
+
+<!---
 Applications are invited for postdoctoral fellow positions in my research group. The successful candidates will be working on various research topics in developing statistical methods and computational tools in the field of single cell and spatial transcriptomics. The successful candidates will be offered with competitive benefits and have the opportunity to analyze a variety of large-scale data types. Applicants should have, or be studying for, a PhD in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. A strong computational background is preferred. Applicants should send a CV, a short statement of research interests, and contact information of three referees to: Lulu Shang lshang@mdanderson.org. Review of applications will begin immediately and continue until the position is filled.
+---> 
 
-We also have open positions for Research Assistant. The Research Assistant positions can be offered to students in MD Anderson, Rice,  UTHealth, and more. Please feel free to reach out me (lshang@mdanderson.org) if you are interested in joining our lab.
-
+We have open Research Assistant positions available for students at the PhD, Master’s, or Undergraduate level. Opportunities are open to students from MD Anderson, Rice, UTHealth, and other institutions. If you are interested in joining our lab, please feel free to contact me at lshang <at> mdanderson.org.
 
 <br clear="left"/>
 <hr/>
