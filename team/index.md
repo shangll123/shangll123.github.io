@@ -24,11 +24,11 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 - **Yuchen Zhang** PhD Student (09/2024 - Present), Biostatistics, The University of Texas Health Science Center at Houston.
 
+- **Wenzheng Li**, Rotation PhD Student (09/2025 - Present, co-advise with Dr. Yu Shen), GSBS PhD program, The MD Anderson Cancer Center.
+
 - **Zihan Yang**, Undergrad Student (09/2024 - Present), Biosciences, Rice University.
   
 - **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
-
-- **Wenzheng Li**, Rotation PhD Student (09/2025 - Present, co-advise with Dr. Yu Shen), GSBS PhD program, The MD Anderson Cancer Center.
 
 
 <div class="bigspacer"></div>
