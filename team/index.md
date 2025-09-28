@@ -28,7 +28,7 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
   
 - **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
 
-- **Wenzheng Li**, incoming PhD Student (04/2024 - Present, co-advise with Dr. Yu Shen), GSBS PhD program, The MD Anderson Cancer Center.
+- **Wenzheng Li**, Rotation PhD Student (09/2025 - Present, co-advise with Dr. Yu Shen), GSBS PhD program, The MD Anderson Cancer Center.
 
 
 <div class="bigspacer"></div>
