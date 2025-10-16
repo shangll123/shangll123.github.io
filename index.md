@@ -17,7 +17,7 @@ categories:
 	<div class="col-md-12">
 		<!-- <object class="pull-left biglogo" data="assets/themes/lab/images/logo/logo-none.svg" type="image/svg+xml"></object> -->
 			<div class="bigtitle logobox">	
-			Lulu Shang
+			Shang Lab
 		</div>
 	</div>	
 </div> 
@@ -38,7 +38,7 @@ categories:
 
 **About Me**:
 
-I am a tenure-track assistant professor in the Department of Biostatistics at MD Anderson Cancer Center. I received my Ph.D. from the Department of Biostatistics at the University of Michigan, under supervision of Prof. [Xiang Zhou](http://xzlab.org), focusing on developing statistical methods for genetic and genomic datasets. I also worked closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study. Prior to that, I obtained my bachelor’s degree in Biology from the Zhiyuan Honored College at Shanghai Jiao Tong University.
+My name is Lulu Shang. I am a tenure-track assistant professor in the Department of Biostatistics at MD Anderson Cancer Center. I received my Ph.D. from the Department of Biostatistics at the University of Michigan, under supervision of Prof. [Xiang Zhou](http://xzlab.org), focusing on developing statistical methods for genetic and genomic datasets. I also worked closely with Prof. [Jennifer Smith](https://sph.umich.edu/faculty-profiles/smith-jennifer.html) in the Department of Epidemiology at the University of Michigan on large-scale quantitative trait mapping in African Americans in the GENOA study. Prior to that, I obtained my bachelor’s degree in Biology from the Zhiyuan Honored College at Shanghai Jiao Tong University.
  
 <hr/>
 
