@@ -52,7 +52,7 @@ My research interest is in developing effective and efficient statistical and ma
 non-parametric models, dimension reduction, data integration, statistical computing, network analysis, and machine learning (including deep learning).
 - *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA sequencing studies, spatial and single cell multi-omics, genome-wide association studies, genome-wide quantitative loci mapping, methylation studies, and gene regulatory network.
 
-<!--
+
 <hr/>
 
 **Funding**
