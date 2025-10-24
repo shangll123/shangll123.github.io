@@ -17,7 +17,7 @@ navorder: 2
 * co-first authors, † co-corresponding authors
 
 ### 2025<br>
-- Li, Ruoxing, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher Flowers, **Lulu shang**†, and Ziyi Li†. "Accurate Imputation of Pathway-specific Gene Expression in Spatial Transcriptomics with PASTA." (2025). Nature Communications. In press.
+- Li, Ruoxing, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher Flowers, **Lulu shang**†, and Ziyi Li†. "Accurate Imputation of Pathway-specific Gene Expression in Spatial Transcriptomics with PASTA." (2025). Nature Communications. Accepted.
 - **Shang, Lulu** \*, Peijun Wu \*, and Xiang Zhou. "Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics." Nature Communications 16, no. 1 (2025): 1059.<br>
 - Chaar, Dima L., Zheng Li, **Lulu Shang**, Scott M. Ratliff, Thomas H. Mosley, Sharon LR Kardia, Wei Zhao, Xiang Zhou, and Jennifer A. Smith. "Multi-ancestry transcriptome-wide association studies of cognitive function, white matter hyperintensity, and Alzheimer’s disease." International journal of molecular sciences 26, no. 6 (2025): 2443.
 - Luo, Lan, **Lulu shang**, Jaclyn M. Goodrich, Karen E. Peterson, and Peter XK Song. "Bridging the gap: Enhancing the generalizability of epigenetic clocks through transfer learning." medRxiv (2025): 2025-02. (preprint)
