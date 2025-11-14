@@ -57,6 +57,8 @@ We have open Research Assistant positions available for students at the PhD, Mas
 <br clear="left"/>
 <hr/>
 <img src="/assets/themes/lab/images/logo/group.jpeg" alt="photo" width="600" class="center">
+Lab dinner, 2025.5.15.
+
 
 
 
