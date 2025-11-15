@@ -57,6 +57,7 @@ We have open Research Assistant positions available for students at the PhD, Mas
 <br clear="left"/>
 <hr/>
 <img src="/assets/themes/lab/images/logo/group.jpeg" alt="photo" width="600" class="center">
+
 Lab dinner, May 15, 2025.
 
 
@@ -64,7 +65,13 @@ Lab dinner, May 15, 2025.
 <br clear="left"/>
 <hr/>
 <img src="/assets/themes/lab/images/logo/JamesAllison.jpeg" alt="photo" width="600" class="center">
+
 James P. Allison Institute 3rd Annual Scientific Symposium, October 24, 2025.
 
 
+<br clear="left"/>
+<hr/>
+<img src="/assets/themes/lab/images/logo/Nov15_2025_bootwalk.jpg" alt="photo" width="600" class="center">
+
+MD Anderson's Boot Walk to End Cancer, November 15, 2025.
 
