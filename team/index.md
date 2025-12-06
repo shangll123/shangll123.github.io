@@ -75,3 +75,8 @@ James P. Allison Institute 3rd Annual Scientific Symposium, October 24, 2025.
 
 MD Anderson's Boot Walk to End Cancer, November 15, 2025.
 
+<br clear="left"/>
+<hr/>
+<img src="/assets/themes/lab/images/logo/milktea" alt="photo" width="600" class="center">
+
+Group meeting, Dec 5, 2025.
