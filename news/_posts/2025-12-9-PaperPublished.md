@@ -8,4 +8,4 @@ category: news
 tags: [service]
 ---
 
-Excited to serve as Co-Chair Track Leader for the Single Cell and Spatial Omics track at STATGEN 2026—registration. Abstract submissions are now open at https://statgen26.emory.edu. See you in Atlanta!
+Excited to serve as Co-Chair Track Leader for the Single Cell and Spatial Omics track at STATGEN 2026. Abstract submissions are now open at https://statgen26.emory.edu. See you in Atlanta!
