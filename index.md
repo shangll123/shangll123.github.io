@@ -44,13 +44,13 @@ My name is Lulu Shang. I am a tenure-track assistant professor in the Department
 
 **Research Interests**:
 
-My research interest is in developing effective and efficient statistical and deep learning methods in single cell and spatial transcriptomics to address critical biological problems such as omics data dimension reduction and integration. My specific focus includes: 1). developing statistical and computational methods for data analysis in single-cell RNA-seq and spatial transcriptomics; 2). bridging between population-level genome-wide association studies (GWASs) and individual-level single-cell and spatial transcriptomics data to unravel the underlying mechanisms of disease etiology; 3). integrating multi-omics data with patient outcomes to foster translational research, ultimately connecting molecular insights with clinical applications. 
+My research program centers on developing innovative statistical and computational methods for spatial biology, single-cell genomics, and integrative multi-omics. I design scalable, interpretable, and data-driven models that capture complex molecular, cellular, and spatial organization in human tissues, with the broader goal of advancing our understanding of disease mechanisms across diverse biological systems. By integrating statistical modeling, deep learning, and high-dimensional genomic profiling, my lab builds tools that enable quantitative characterization of tissue architecture, cellular heterogeneity, and gene regulatory processes. We work closely with experimental and clinical collaborators to ensure that our methods generate biologically meaningful and clinically actionable insights, including applications in cancer when improved spatial and molecular resolution can inform diagnosis, prognosis, and therapeutic strategies. Ultimately, my research aims to create broadly applicable computational frameworks that strengthen the bridge between modern genomics technologies and biomedical discovery.
 
 **Keywords**:
 
-- *Statistical Methods*: High-dimensional data analysis, mixed effects models, longitudinal data analysis, spatial statistics,
+- *Statistical Methods*: High-dimensional data analysis, mixed effects models, longitudinal data analysis, spatial statistics, multiple instance learning, 
 non-parametric models, dimension reduction, data integration, statistical computing, network analysis, and deep learning.
-- *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA sequencing studies, spatial and single cell multi-omics, genome-wide association studies, genome-wide quantitative loci mapping, methylation studies, and gene regulatory network.
+- *Applications*: High dimensional genetic and genomic data including spatial transcriptomics, single cell RNA sequencing studies, spatial and single cell multi-omics, digital pathology, genome-wide association studies, genome-wide quantitative loci mapping, methylation studies, and gene regulatory network.
 
 
 <hr/>
