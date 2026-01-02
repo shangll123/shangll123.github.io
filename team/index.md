@@ -28,6 +28,8 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
   
 - **Vismay Ravikumar**, Undergrad Student (09/2024 - Present), Computer Science, Rice University.
 
+- **Li Yan Fei**, Rotation PhD Student (12/2025 - 02/2026), GSBS PhD program, The MD Anderson Cancer Center.
+
 
 <div class="bigspacer"></div>
 
