@@ -219,7 +219,7 @@ non-parametric models, dimension reduction, data integration, statistical comput
 
 <div class="bigspacer"></div>
 
-<img src="/assets/themes/lab/images/logo/background2.png" alt="photo" width="800">
+<img src="/assets/themes/lab/images/logo/MDA_background.jpg" alt="photo" width="1400">
 
 
 
