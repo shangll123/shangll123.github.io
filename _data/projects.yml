@@ -17,3 +17,21 @@
   - login: 
     avatar: 
     url: https://github.com/xzhoulab/CoCoNet
+- repo: shangll123/Celina
+  title: Celina
+  owner: Lulu Shang
+  description: Celina
+  url: /projects/Celina
+  contributors:
+  - login: 
+    avatar: 
+    url: https://github.com/shangll123/Celina
+- repo: rx-li/PASTA
+  title: PASTA
+  owner: Ruoxing Li
+  description: PASTA
+  url: /projects/PASTA
+  contributors:
+  - login: 
+    avatar: 
+    url: https://github.com/rx-li/PASTA
