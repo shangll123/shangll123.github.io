@@ -1,13 +1,4 @@
 ---    
-- repo: shangll123/SpatialPCA
-  title: SpatialPCA
-  owner: Lulu Shang
-  description: SpatialPCA
-  url: /projects/SpatialPCA
-  contributors:
-  - login: shangll123
-    avatar: 
-    url: https://github.com/shangll123/SpatialPCA
 - repo: xzhoulab/CoCoNet
   title: CoCoNet
   owner: Lulu Shang
@@ -17,6 +8,24 @@
   - login: 
     avatar: 
     url: https://github.com/xzhoulab/CoCoNet
+- repo: shangll123/SpatialPCA
+  title: SpatialPCA
+  owner: Lulu Shang
+  description: SpatialPCA
+  url: /projects/SpatialPCA
+  contributors:
+  - login: shangll123
+    avatar: 
+    url: https://github.com/shangll123/SpatialPCA
+- repo: xzhoulab/SRTsim
+  title: SRTsim
+  owner: Jiaqiang Zhu & Lulu Shang
+  description: SRTsim
+  url: /projects/SRTsim
+  contributors:
+  - login: xzhoulab
+    avatar: 
+    url: https://github.com/xzhoulab/SRTsim
 - repo: shangll123/Celina
   title: Celina
   owner: Lulu Shang
