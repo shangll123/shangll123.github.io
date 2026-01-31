@@ -56,20 +56,19 @@ Applications are invited for postdoctoral fellow positions in my research group.
 
 We have open Research Assistant positions available for students at the PhD, Master’s, or Undergraduate level. Opportunities are open to students from MD Anderson, Rice, UTHealth, and other institutions. If you are interested in joining our lab, please feel free to contact me at lshang <at> mdanderson.org.
 
-<br clear="left"/>
-<hr/>
-<img src="/assets/themes/lab/images/logo/group.jpeg" alt="photo" width="600" class="center">
-
-Lab dinner, May 15, 2025.
-
-
 
 <br clear="left"/>
 <hr/>
-<img src="/assets/themes/lab/images/logo/JamesAllison.jpeg" alt="photo" width="600" class="center">
+<img src="/assets/themes/lab/images/logo/Jan31_2026_lunch.jpg" alt="photo" width="600" class="center">
 
-James P. Allison Institute 3rd Annual Scientific Symposium, October 24, 2025.
+Group lunch, Jan 31, 2026. 
 
+
+<br clear="left"/>
+<hr/>
+<img src="/assets/themes/lab/images/logo/milktea.jpeg" alt="photo" width="600" class="center">
+
+Group meeting, December 5, 2025. 
 
 <br clear="left"/>
 <hr/>
@@ -80,8 +79,24 @@ MD Anderson's Boot Walk to End Cancer, November 15, 2025.
 
 <br clear="left"/>
 <hr/>
-<img src="/assets/themes/lab/images/logo/milktea.jpeg" alt="photo" width="600" class="center">
+<img src="/assets/themes/lab/images/logo/JamesAllison.jpeg" alt="photo" width="600" class="center">
 
-Group meeting, December 5, 2025. 
+James P. Allison Institute 3rd Annual Scientific Symposium, October 24, 2025.
+
+
+
+<br clear="left"/>
+<hr/>
+<img src="/assets/themes/lab/images/logo/group.jpeg" alt="photo" width="600" class="center">
+
+Lab dinner, May 15, 2025.
+
+
+
+
+
+
+
+
 
 
