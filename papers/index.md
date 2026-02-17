@@ -17,7 +17,7 @@ navorder: 2
 * co-first authors, † co-corresponding authors
 
 ### 2026<br>
-- Lihe Liu, Xiaoxi Pan, Yinyin Yuan†, **Lulu shang**†. "Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction." Submitted.
+- Lihe Liu, Xiaoxi Pan, Yinyin Yuan†, **Lulu shang**†. "Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction." arxiv [link](https://arxiv.org/pdf/2602.12441).
 - Luo, Lan, **Lulu shang**, Jaclyn M. Goodrich, Karen E. Peterson, and Peter XK Song. "Bridging the gap: Enhancing the generalizability of epigenetic clocks through transfer learning." Annals of Applied Statistics. (accepted)
 
 
