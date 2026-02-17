@@ -46,7 +46,7 @@ navorder: 2
 - Anderson, Ana C., Itai Yanai, Lucy R. Yates, Linghua Wang, Alexander Swarbrick, Peter Sorger, ..., **Lulu Shang**, Xiang Zhou, Sandro Santagata et al. "Spatial transcriptomics." Cancer cell 40, no. 9 (2022): 895-900.
 
 ### 2021<br>
-- Zhu, Huanhuan \*, **Lulu Shang** \*, and Xiang Zhou. "A review of statistical methods for identifying trait-relevant tissues and cell types." Frontiers in Genetics 11 (2021): 587887.<br>
+- Zhu, Huanhuan \*, **Lulu Shang** \*, and Xiang Zhou. "A review of statistical methods for identifying trait-relevant tissues and cell types." Frontiers in Genetics 11 (2021): 587887.[link](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.587887/full)<br>
 - Ammous, Farah, Wei Zhao, Scott M. Ratliff, Minjung Kho, **Lulu Shang**, Alana C. Jones, Ninad S. Chaudhary et al. "Epigenome-wide association study identifies DNA methylation sites associated with target organ damage in older African Americans." Epigenetics 16, no. 8 (2021): 862-875.<br>
 - Wen, Jia, Munan Xie, Bryce Rowland, Jonathan D. Rosen, Quan Sun, Jiawen Chen, Amanda L. Tapia, ..., **Lulu Shang**, ... et al. "Transcriptome-wide association study of blood cell traits in african ancestry and hispanic/latino populations." Genes 12, no. 7 (2021): 1049.<br>
 
