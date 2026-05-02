@@ -56,6 +56,15 @@ We have open Research Assistant positions available for students at the PhD, Mas
 
 <br clear="left"/>
 <hr/>
+<img src="/assets/themes/lab/images/logo/IMG_1380.jpg" alt="photo" width="350" class="center">
+
+Yufan served as a team lead at the Colin Stroud Hackathon, is pictured with Nobel Prize laureate Dr. James P. Allison at the award ceremony, where her team received third place. 
+
+May 1, 2026. 
+
+
+<br clear="left"/>
+<hr/>
 <img src="/assets/themes/lab/images/logo/Jan31_2026_lunch.jpg" alt="photo" width="600" class="center">
 
 Group lunch, Jan 31, 2026. 
