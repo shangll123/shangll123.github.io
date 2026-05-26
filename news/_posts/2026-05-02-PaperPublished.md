@@ -10,7 +10,7 @@ tags: [award]
 
 <br clear="left"/>
 <hr/>
-<img src="/assets/themes/lab/images/logo/yufan_hackathon.jpg" alt="photo" width="400" class="center">
+<img src="/assets/themes/lab/images/logo/yufan_hackathon.jpg" alt="photo" width="300" class="center">
 
 
 Yufan served as one of eight team leads at the Colin Stroud Hackathon and her team received third place.
