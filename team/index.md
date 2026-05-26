@@ -56,7 +56,7 @@ We have open Research Assistant positions available for students at the PhD, Mas
 
 <br clear="left"/>
 <hr/>
-<img src="/assets/themes/lab/images/logo/IMG_1380.jpg" alt="photo" width="350" class="center">
+<img src="/assets/themes/lab/images/logo/yufan_hackathon.jpg" alt="photo" width="400" class="center">
 
 Yufan served as a team lead at the Colin Stroud Hackathon, is pictured with Nobel Prize laureate Dr. James P. Allison at the award ceremony, where her team received third place. 
 
