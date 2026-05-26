@@ -8,6 +8,11 @@ category: news
 tags: [award]
 ---
 
+<br clear="left"/>
+<hr/>
+<img src="/assets/themes/lab/images/logo/yufan_hackathon.jpg" alt="photo" width="400" class="center">
+
+
 Yufan served as one of eight team leads at the Colin Stroud Hackathon and her team received third place.
 
 The Colin Stroud Hackathon brings together trainees, data scientists, computational biologists, researchers and clinicians to collaborate and explore innovative approaches at the intersection of spatial multi-omics, cancer biology and AI-driven data science.
