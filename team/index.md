@@ -28,11 +28,13 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
   
 
 
-- **Li Yan Fei**, Rotation PhD Student (12/2025 - 02/2026), GSBS PhD program, The MD Anderson Cancer Center.
+
 
 <div class="bigspacer"></div>
 
 Lab Alumni:<br>
+
+- **Li Yan Fei**, Rotation PhD Student (12/2025 - 02/2026), GSBS PhD program, The MD Anderson Cancer Center.
 
 - **Vismay Ravikumar**, Undergrad Student (09/2024 - 12/2025), Computer Science, Rice University.
 
