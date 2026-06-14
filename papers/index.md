@@ -28,7 +28,7 @@ navorder: 2
 - **Shang, Lulu** \*, Peijun Wu \*, and Xiang Zhou. "Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics." Nature Communications 16, no. 1 (2025): 1059. [link](https://www.nature.com/articles/s41467-025-56280-4)<br> 
 - Chaar, Dima L., Zheng Li, **Lulu Shang**, Scott M. Ratliff, Thomas H. Mosley, Sharon LR Kardia, Wei Zhao, Xiang Zhou, and Jennifer A. Smith. "Multi-ancestry transcriptome-wide association studies of cognitive function, white matter hyperintensity, and Alzheimer’s disease." International journal of molecular sciences 26, no. 6 (2025): 2443.
 - Sun, Shiquan, Chaoyong Yang,  **Lulu shang**, and Rong Fan. "Unraveling Tissue Complexity Through Single‐Cell and Spatial Transcriptomics." Small Methods (2025): 2500710. (editorial)
-- Wenjing Ma, Siyu Hou, **Lulu shang**, Jiaying Lu, and Xiang Zhou (2025). Optimal transport modeling uncovers spatial domain dynamics in spatiotemporal transcriptomics studies. (submitted)
+- Wenjing Ma, Siyu Hou, **Lulu shang**, Jiaying Lu, and Xiang Zhou (2025). Optimal transport modeling uncovers spatial domain dynamics in spatiotemporal transcriptomics studies. (Under Revision)
 
   
 ### 2024<br>
