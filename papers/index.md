@@ -17,8 +17,10 @@ navorder: 2
 * co-first authors, † co-corresponding authors
 
 ### 2026<br>
+- Cho, Kyung Serk, Yunhe Liu, Guangsheng Pei, Jianfeng Chen, Yibo Dai, Yang Liu, Tieling Zhou, … **Lulu Shang**, … et al. “Pan-cancer spatial atlas of tertiary lymphoid structures.” *Science* 392, no. 6801 (2026): eadz2742.
+- Yuchen Zhang, Chunru lin, Liuqing Yang, Yuying Xie, Yu Shen, **Lulu shang**†. "MELON: Multimodal Learning Framework for Spatial Multimodal Omics Data Integration." (ICML 2026 AI for Science Workshop, accepted).
 - Lihe Liu, Xiaoxi Pan, Yinyin Yuan†, **Lulu shang**†. "Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction." arxiv [link](https://arxiv.org/pdf/2602.12441).
-- Luo, Lan, **Lulu shang**, Jaclyn M. Goodrich, Karen E. Peterson, and Peter XK Song. "Bridging the gap: Enhancing the generalizability of epigenetic clocks through transfer learning." Annals of Applied Statistics. (accepted)
+- Luo, Lan, **Lulu shang**, Jaclyn M. Goodrich, Karen E. Peterson, and Peter XK Song. "Bridging the gap: Enhancing the generalizability of epigenetic clocks through transfer learning." The Annals of Applied Statistics 20, no. 1 (2026): 68-89.
 
 
 ### 2025<br>
