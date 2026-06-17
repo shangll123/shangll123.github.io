@@ -38,7 +38,7 @@ categories:
 
 **About Me**:
 
-My name is Lulu Shang. I am a tenure-track assistant professor in the Department of Biostatistics at MD Anderson Cancer Center, and started Nov 2023. Previously, I received my Ph.D. from the Department of Biostatistics at the University of Michigan, under supervision of Prof. [Xiang Zhou](http://xzlab.org). Prior to that, I obtained my bachelor’s degree in Biology from the Zhiyuan Honored College at Shanghai Jiao Tong University.
+My name is Lulu Shang. I am a tenure-track assistant professor in the Department of Biostatistics at MD Anderson Cancer Center, and started Nov 2023. Previously, I received my Ph.D. from the Department of Biostatistics at the University of Michigan, under supervision of Prof. [Xiang Zhou](https://xiangzhou.github.io). Prior to that, I obtained my bachelor’s degree in Biology from the Zhiyuan Honored College at Shanghai Jiao Tong University.
  
 <hr/>
 
