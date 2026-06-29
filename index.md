@@ -56,7 +56,7 @@ non-parametric models, dimension reduction, data integration, statistical comput
 <hr/>
 
 **Funding**
-- Institutional Research Grant, $75k direct cost, 2/1/2025-1/31/2026 (Awarded to top 20 proposals among all faculty applicants at MD Anderson)
+- Institutional Research Grant, $75k direct cost, 2/1/2025-1/31/2027 (Awarded to top 20 proposals among all faculty applicants at MD Anderson)
 
 <hr/>
 
