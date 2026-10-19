@@ -34,7 +34,7 @@ categories:
 [[Google Scholar<i class="ai ai-google-scholar"></i>]](https://scholar.google.com/citations?user=7FEgLPkAAAAJ&hl=en&authuser=1) [[GitHub<i class="fa fa-github"></i>]](https://github.com/shangll123) [[Twitter<i class="fa fa-twitter"></i>]](https://twitter.com/shang_lulu).
 
 
-<hr/>
+<span style="color:red; font-weight:bold;">[Recruiting Ph.D. students (Fall'27)]</span> I am actively seeking highly-motivated students for Ph.D. If you are interested, please send me your CV, transcripts, and brief descriptions about why you want to work with me.
 
 **About Me**:
 
