@@ -15,55 +15,29 @@ This blog is written for junior PhD students to pass along the fantastic mentors
 
 ## Table of Contents
 
-- [Coding](#coding)
+- [Meeting](#meeting)
 - [Reading](#reading)
 - [Writing](#writing)
-- [Meeting](#meeting)
 - [General stuff](#general-stuff)
 
-## Coding
-- Submit jobs on server and run job in parallel
-    - Good reference: [https://sph.umich.edu/biostat/computing-old/cluster/slurm.html](https://sph.umich.edu/biostat/computing-old/cluster/slurm.html)
-    - Try not to occupy all nodes at the same time
-        - submit jobs and leave several nodes for other people: sbatch --exclude=mulan-mc[1-6] myScript.sh
-        - example myScript.sh:
-    
-```sh
-#!/bin/bash
-#SBATCH --job-name=Yourjob  # give your job a name
-#SBATCH --array=1-100%50    # this is to run 50 jobs at a time
-#SBATCH --cpus-per-task=1
-#SBATCH --time=24:00:00
-#SBATCH --output=/net/mulan/xxx/out/Yourjob%a.txt  # you need to create the folder "/net/mulan/xxx/out" 
-#SBATCH --error=/net/mulan/xxx/err/Yourjob%a.txt   # same as above
-#SBATCH --mem-per-cpu=5000MB  
-#SBATCH --partition=mulan,main                           # or just one of these partitions
+## Meeting
+- These are just things that **might** be helpful, different people may have different styles when meeting with their advisors
+    - Before the weekly meeting:
+        - summarize the topics you want to discuss, list them from most to least important
+        - prepare slides or notes, organize the results and put one sentence summary on each page
+        - think about what questions you have, google or do as much preliminary exploration as you can
+        - think about possible solutions when you meet challenges, for example, when you have two options and both are easy to try, try them first and summarize the results, and then discuss the results with your advisor on the meeting. Otherwise, if both options are time consuming, you may want to ask your advisor to help rank the priority
+    - During the meeting:
+        - take notes of the topics you should follow up on, and their priority
+        - be honest and tell your advisor if you are stuck somewhere
+    - After the meeting:
+        - summarize what was discussed and your next steps
+        - send an email if you need further input from your advisor, outline what was discussed and what you need
+    - Other tips:
+        - summarize your past experience to identify what worked well and why
+        - this is your PhD, don’t totally rely on your advisor, you are the one to solve the problems and make things work
+     
 
-bash
-let k=0
-
-for ((arg1=1;arg1<=10;arg1++)); do
-	for ((arg2=1;arg2<=10;arg2++)); do
-	  let k=${k}+1
-	  if [ ${k} -eq ${SLURM_ARRAY_TASK_ID} ]; then
-		  Rscript --verbose ./Yourcode.R   ${arg1}  ${arg2} 
-	  fi
-	done
-done
-```
-
-```R
-# example R script “Yourcode.R”:
-args <- as.numeric(commandArgs(TRUE))
-i = args[1] # simulation scenario, i.e. if you have 10 scenarios, here you are running the i-th scenario 
-j = args[2] # repeat number, i.e. when you need to run 10 replicates in each scenario
-print("scenario")
-print(i)
-print("repeat")
-print(j)
-# then you can write your codes from here.
-
-```
 - Additionally, for each project, I found it beneficial to organize by creating folders within each project folder. These folders were named 'code', 'result', 'err', 'out', 'data', and 'figure'.
 - It is also helpful to collect and write functions to create your own “code library”, and save them into “utilities_function.R” or “utilities_function.py”, so that you can directly source them whenever needed.
 - RcppArmadillo (write codes in Rcpp and then you can source the functions in R, this can help make the codes faster)
@@ -88,7 +62,7 @@ print(j)
     - Google scholar (follow individual researchers and subscribe through email)
     - Researcher (iphone/ipad APP, receive journal updates)
     - Journal websites (i.e. [https://www.nature.com/nature/research-articles](https://www.nature.com/nature/research-articles))
-    - biorxiv and arxiv
+    - bioRxiv and arXiv
     - Twitter (need to train it a little bit so that it can recommend related papers for you)
 - Taking notes
     - Notion (very flexible, discount with umich email)
@@ -98,23 +72,6 @@ print(j)
 - Keep track of references: EndNote, Mendeley, or Zotero
 - Books: The Elements of Style; On Writing Well, …
 - “Ten simple rules for structuring papers”: [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
-
-## Meeting
-- These are just things that **might** be helpful, different people may have different styles when meeting with their advisors
-    - Before the weekly meeting:
-        - summarize the topics you want to discuss, list them from most to least important
-        - prepare slides or notes, organize the results and put one sentence summary on each page
-        - think about what questions you have, google or do as much preliminary exploration as you can
-        - think about possible solutions when you meet challenges, for example, when you have two options and both are easy to try, try them first and summarize the results, and then discuss the results with your advisor on the meeting. Otherwise, if both options are time consuming, you may want to ask your advisor to help rank the priority
-    - During the meeting:
-        - take notes of the topics you should follow up on, and their priority
-        - be honest and tell your advisor if you are stuck somewhere
-    - After the meeting:
-        - summarize what was discussed and your next steps
-        - send an email if you need further input from your advisor, outline what was discussed and what you need
-    - Other tips:
-        - summarize your past experience to identify what worked well and why
-        - this is your PhD, don’t totally rely on your advisor, you are the one to solve the problems and make things work
 
 ## General stuff
 - Creating your personal website
