@@ -16,6 +16,7 @@ This blog is written for junior PhD students to pass along the fantastic mentors
 ## Table of Contents
 
 - [Meeting](#meeting)
+- [Organizing](#organizing)
 - [Reading](#reading)
 - [Writing](#writing)
 - [General stuff](#general-stuff)
@@ -38,6 +39,7 @@ This blog is written for junior PhD students to pass along the fantastic mentors
         - this is your PhD, don’t totally rely on your advisor, you are the one to solve the problems and make things work
      
 
+## Organizing
 - Additionally, for each project, I found it beneficial to organize by creating folders within each project folder. These folders were named 'code', 'result', 'err', 'out', 'data', and 'figure'.
 - It is also helpful to collect and write functions to create your own “code library”, and save them into “utilities_function.R” or “utilities_function.py”, so that you can directly source them whenever needed.
 - RcppArmadillo (write codes in Rcpp and then you can source the functions in R, this can help make the codes faster)
