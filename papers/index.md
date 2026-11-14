@@ -17,7 +17,10 @@ navorder: 2
 * co-first authors, † co-corresponding authors
 
 ### 2026<br>
-- Yuchen Zhang, Chunru lin, Liuqing Yang, Yuying Xie, Yu Shen, **Lulu shang**. "MELON: Multimodal Learning Framework for Spatial Multimodal Omics Data Integration." (ICML 2026 AI for Science Workshop, accepted).
+- Yu Wu, Xiaoyun Ding, Jiaxing Li, Yueheng Xing, Babette Franke, Gabrielle R Brown, Victoria Rodriguez, Emily Ricco, Ping Kang, Tokcan Esmanur, Juan A Oses-Prieto, Taotao Tan, **Lulu Shang**, Alma L Burlingame, Daniel C Kraushaar, Ruth M Stassart, Matthew N Rasband. Defining the Early Response of Oligodendrocyte-Lineage Cells to Traumatic CNS Axonal Injury. *Journal of Neuroscience* 46, no. 38 (2026): e0969262026.
+- Xiaoyun Ding, Yuki Ogawa, Victoria L Palfini, Wei Zhang, Andrew P Anderson, Lucia Gancedo-López, Zian Liao, Zihan Yang, ..., **Lulu Shang**, Pengfei Liu, Jiaxing Li, Yudong Gao, Matthew N Rasband. Paralemmin 2 is a shared, alternatively-spliced regulator of axon initial segments and paranodal junctions in oligodendrocytes. bioRxiv.
+- Xin Li, Xiaofei Dong, Zhenke Duan, **Lulu shang**, Xiao Wang, Xinyuan Song, Hanwen Ning, Guanyu Hu. BaySC: Uncovering Tissue Architecture in Spatial Multi-Omics via Probabilistic Spatial Clustering. arXiv.
+- Yuchen Zhang, Chunru lin, Liuqing Yang, Yuying Xie, Yu Shen, **Lulu shang**. "MELON: Multimodal Learning Framework for Spatial Multimodal Omics Data Integration." (ICML 2026 AI for Science Workshop) [link](https://openreview.net/pdf?id=gAMmsl8yOs).
 - Lihe Liu, Xiaoxi Pan, Yinyin Yuan†, **Lulu shang**†. "Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction." arxiv [link](https://arxiv.org/pdf/2602.12441).
 - Cho, Kyung Serk, Yunhe Liu, Guangsheng Pei, Jianfeng Chen, Yibo Dai, Yang Liu, Tieling Zhou, … **Lulu Shang**, … et al. “Pan-cancer spatial atlas of tertiary lymphoid structures.” *Science* 392, no. 6801 (2026): eadz2742.
 - Luo, Lan, **Lulu shang**, Jaclyn M. Goodrich, Karen E. Peterson, and Peter XK Song. "Bridging the gap: Enhancing the generalizability of epigenetic clocks through transfer learning." The Annals of Applied Statistics 20, no. 1 (2026): 68-89.
