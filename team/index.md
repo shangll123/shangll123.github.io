@@ -25,6 +25,8 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 - **Yuchen Zhang** PhD Student (09/2024 - Present), Biostatistics, The University of Texas Health Science Center at Houston.
 
 - **Zihan Yang**, Undergrad Student (09/2024 - Present), Biosciences, Rice University.
+
+- **Soomin You**, Postbacc Trainee (09/2026 - Present), co-advise with Dr. Ziyi Li (Biostatistics), The University of Texas Health Science Center at Houston.
   
 
 
@@ -34,17 +36,15 @@ I'm extremely fortunate to work with several amazing students to whom I serve as
 
 Lab Alumni:<br>
 
-- **Li Yan Fei**, Rotation PhD Student (12/2025 - 02/2026), GSBS PhD program, The MD Anderson Cancer Center.
+- **Tong Liu**, Research Intern (10/2025 - 02/2026), Current PhD student at the University of Florida.
 
-- **Vismay Ravikumar**, Undergrad Student (09/2024 - 12/2025), Computer Science, Rice University.
+- **Li Yan Fei**, Rotation PhD Student (12/2025 - 02/2026), GSBS PhD program, The MD Anderson Cancer Center.
 
 - **Wenzheng Li**, Rotation PhD Student (09/2025 - 11/2025), GSBS PhD program, The MD Anderson Cancer Center.
 
-- **Jixuan Ni**, Master Student at Rice University (04/2024 - 12/2024)
+- **Jixuan Ni**, Master Student at Rice University (04/2024 - 12/2024), Current Software Engineer at TikTok.
 
-- **Arush Adabala**, Undergrad Student, Computer Science, Rice University (04/2024 - 10/2024)
-
-- **Haoye Yang**, Research Intern (09/2023 - 07/2024, Current PhD student at the University of Chicago)
+- **Haoye Yang**, Research Intern (09/2023 - 07/2024), Current PhD student at the University of Chicago.
   
 <div class="bigspacer"></div>
 
