@@ -56,8 +56,9 @@ non-parametric models, dimension reduction, data integration, statistical comput
 <hr/>
 
 **Funding**
-- Institutional Research Grant, $75k direct cost, 2/1/2025-1/31/2027 (Awarded to top 20 proposals among all faculty applicants at MD Anderson)
 
+- CPRIT Individual Investigator Research Award (PI), $1,048,567, 2026 (Cancer Prevention and Research Institute of Texas)
+- Institutional Research Grant (PI), $75k direct cost, 2/1/2025-1/31/2027 (Awarded to top 20 proposals among all faculty applicants at MD Anderson)
 <hr/>
 
 **Selected Awards**
