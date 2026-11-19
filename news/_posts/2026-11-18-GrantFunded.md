@@ -3,10 +3,11 @@ layout: news
 title: "We received a CPRIT grant to study pollutant burden and lung cancer risk!"
 description: ""
 author: "Lulu Shang"
-author_handle: "lulu"
+author_handle: "Lulu Shang"
 category: news
-published: true
+tags: [paper]
 ---
+
 
 We are grateful to the [Cancer Prevention and Research Institute of Texas (CPRIT)](https://www.cprit.state.tx.us/) for awarding us a $1,048,567 grant to support our project, "Multi-scale understanding of pollutant burden impact on lung adenocarcinoma risk and microenvironment alteration." This funding will support the development of new methodologies to study the relationship between environmental pollutants and lung cancer risk at multiple scales.
 
